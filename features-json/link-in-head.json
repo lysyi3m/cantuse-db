@@ -1,7 +1,7 @@
 {
-  "title": "Media Queries",
-  "description": "Method of applying styles based on media information. Includes things like page and device dimensions",
-  "spec": "http://www.w3.org/TR/css3-mediaqueries/",
+  "title": "<link> element in <head>",
+  "description": "The <link> tag defines a link between a document and an external resource.",
+  "spec": "http://www.w3schools.com/tags/tag_link.asp",
   "links": [
     {
       "url": "",
@@ -9,23 +9,23 @@
     }
   ],
   "categories": [
-    "CSS",
-    "Responsive"
+    "HTML",
+    "Markup"
   ],
   "stats": {
     "web": {
       "mso_com": "n",
       "yahoo": "n",
       "gmail": "n",
-      "aol": "y"
+      "aol": "n"
     },
     "pc": {
-      "mso_07_10_13": "n",
-      "mso_03_ex_mail": "n",
-      "win_live_mail_11": "n",
-      "ln_6_7": "n",
-      "ln_85": "n",
-      "aol_10": "n"
+      "mso_07_10_13": "y",
+      "mso_03_ex_mail": "y",
+      "win_live_mail_11": "y",
+      "ln_6_7": "y",
+      "ln_85": "y",
+      "aol_10": "y"
     },
     "mac": {
       "apple_mail_65": "y",
@@ -34,13 +34,13 @@
     },
     "mobile": {
       "ios_7": "y",
-      "blackberry_6": "n",
+      "blackberry_6": "y",
       "android_4": "y",
       "gmail": "n",
       "wp_75": "y",
-      "sgs_4": "y",
-      "mailbox_ios7": "n",
-      "sparrow_ios7": "y"
+      "sgs_4": "",
+      "mailbox_ios7": "",
+      "sparrow_ios7": ""
     }
   },
   "notes": [

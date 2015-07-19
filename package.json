@@ -1,7 +1,7 @@
 {
   "name": "cantuse-db",
   "version": "0.0.1",
-  "description": "CantUse proj base data in raw json format",
+  "description": "CantUse proj base data in raw (and, optionally, compiled) json format",
   "author": "Emil Kashkevich <emil.kashkevich@gmail.com>",
   "devDependencies": {
     "gulp": "^3.9.0",
@@ -12,5 +12,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lysyi3m/cantuse-db.git"
-  }
+  },
+  "license": "MIT"
 }

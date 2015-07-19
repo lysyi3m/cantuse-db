@@ -1,7 +1,7 @@
 {
-  "title": "Media Queries",
-  "description": "Method of applying styles based on media information. Includes things like page and device dimensions",
-  "spec": "http://www.w3.org/TR/css3-mediaqueries/",
+  "title": "<style> element in <body>",
+  "description": "The <style> tag is used to define style information for an HTML document. Inside the <style> element you specify how HTML elements should render.",
+  "spec": "http://www.w3schools.com/tags/tag_style.asp",
   "links": [
     {
       "url": "",
@@ -9,23 +9,23 @@
     }
   ],
   "categories": [
-    "CSS",
-    "Responsive"
+    "HTML",
+    "Markup"
   ],
   "stats": {
     "web": {
-      "mso_com": "n",
-      "yahoo": "n",
+      "mso_com": "y",
+      "yahoo": "y",
       "gmail": "n",
       "aol": "y"
     },
     "pc": {
-      "mso_07_10_13": "n",
-      "mso_03_ex_mail": "n",
-      "win_live_mail_11": "n",
+      "mso_07_10_13": "y",
+      "mso_03_ex_mail": "y",
+      "win_live_mail_11": "y",
       "ln_6_7": "n",
-      "ln_85": "n",
-      "aol_10": "n"
+      "ln_85": "y",
+      "aol_10": "y"
     },
     "mac": {
       "apple_mail_65": "y",
@@ -34,11 +34,11 @@
     },
     "mobile": {
       "ios_7": "y",
-      "blackberry_6": "n",
+      "blackberry_6": "y",
       "android_4": "y",
       "gmail": "n",
       "wp_75": "y",
-      "sgs_4": "y",
+      "sgs_4": "",
       "mailbox_ios7": "n",
       "sparrow_ios7": "y"
     }

@@ -14,28 +14,27 @@
   ],
   "stats": {
     "web": {
-      "mso_web": "y",
+      "mso_com": "y",
       "yahoo": "y",
       "gmail": "n",
       "aol": "y"
     },
     "pc": {
-      "mso_12_14_15": "y",
-      "mso_ex": "y",
-      "win_live": "y",
-      "notes_6_7": "y",
-      "ln_6_7": "y",
+      "mso_07_10_13": "y",
+      "mso_03_ex_mail": "y",
+      "win_live_mail_11": "y",
+      "ln_6_7": "n",
       "ln_85": "y",
       "aol_10": "y"
     },
     "mac": {
-      "mail_65": "y",
+      "apple_mail_65": "y",
       "postbox": "y",
       "thunderbird_17": "y"
     },
     "mobile": {
       "ios_7": "y",
-      "bb_6": "y",
+      "blackberry_6": "y",
       "android_4": "y",
       "gmail": "n",
       "wp_75": "y",
