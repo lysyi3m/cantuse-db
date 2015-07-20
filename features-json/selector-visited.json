@@ -1,8 +1,8 @@
 {
   "title": "selector-visited",
   "description": "",
-  "css": "1",
   "spec": "",
+  "css_version": "1",
   "links": [
     {
       "url": "",
@@ -12,34 +12,34 @@
   "categories": [],
   "stats": {
     "web": {
-      "outlook_com": "No",
-      "yahoo_mail": "Yes",
-      "gmail": "No",
-      "aol_mail": "No"
+      "Outlook.com": "No",
+      "Yahoo! Mail": "Yes",
+      "Gmail": "No",
+      "AOL Mail": "No"
     },
     "pc": {
-      "outlook_07_10_13": "Yes",
-      "outlook_03_express_mail": "No",
-      "windows_live_mail_11": "Yes",
-      "ln_6_7": "No",
-      "ln_85": "Yes",
-      "aol_10": "Yes"
+      "Outlook '07 / '10 / ‘13": "Yes",
+      "Outlook '03 / Express / Mail": "No",
+      "Windows Live Mail 2011": "Yes",
+      "Notes 6 / 7": "No",
+      "Lotus Notes 8.5": "Yes",
+      "AOL Desktop 10": "Yes"
     },
     "mac": {
-      "apple_mail_65": "No",
-      "outlook_11": "No",
-      "postbox": "No",
-      "thunderbird_17": "No"
+      "Apple Mail 6.5": "No",
+      "Outlook 2011": "No",
+      "Postbox": "No",
+      "Thunderbird 17": "No"
     },
     "mobile": {
-      "ios_7": "Yes",
-      "blackberry_6": "Yes",
-      "android_4": "Yes",
-      "gmail": "No",
-      "wp_75": "Yes",
-      "sgs_4": "",
-      "mailbox_ios7": "No",
-      "sparrow_ios7": "Yes"
+      "iPhone / iPad (iOS 7)": "Yes",
+      "Blackberry 6": "Yes",
+      "Android 4 (Default)": "Yes",
+      "Gmail": "No",
+      "Windows Mobile 7.5": "Yes",
+      "Samsung Galaxy S4 (Default)": "",
+      "Mailbox (iOS 7)": "No",
+      "Sparrow (iOS 7)": "Yes"
     }
   },
   "notes": [

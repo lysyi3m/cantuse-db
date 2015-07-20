@@ -1,7 +1,7 @@
 {
   "name": "cantuse-db",
   "version": "0.0.1",
-  "description": "CantUse proj base data in raw (and, optionally, compiled) json format",
+  "description": "Raw mail client features support data based on Campaignmonitor's research",
   "author": "Emil Kashkevich <emil.kashkevich@gmail.com>",
   "devDependencies": {
     "babyparse": "^0.4.3",

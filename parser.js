@@ -25,40 +25,40 @@ var formatData = function(data) {
     var feature = {
       "title": rows[i][0],
       "description": "",
-      "css": rows[i][1],
       "spec": "",
+      "css_version": rows[i][1],
       "links": [{"url": "","title": ""}],
       "categories": [],
       "stats": {
         "web": {
-          "outlook_com": rows[i][2],
-          "yahoo_mail": rows[i][3],
-          "gmail": rows[i][4],
-          "aol_mail": rows[i][5]
+          "Outlook.com": rows[i][2],
+          "Yahoo! Mail": rows[i][3],
+          "Gmail": rows[i][4],
+          "AOL Mail": rows[i][5]
         },
         "pc": {
-          "outlook_07_10_13": rows[i][6],
-          "outlook_03_express_mail": rows[i][7],
-          "windows_live_mail_11": rows[i][8],
-          "ln_6_7": rows[i][9],
-          "ln_85": rows[i][10],
-          "aol_10": rows[i][11]
+          "Outlook '07 / '10 / ‘13": rows[i][6],
+          "Outlook '03 / Express / Mail": rows[i][7],
+          "Windows Live Mail 2011": rows[i][8],
+          "Notes 6 / 7": rows[i][9],
+          "Lotus Notes 8.5": rows[i][10],
+          "AOL Desktop 10": rows[i][11]
         },
         "mac": {
-          "apple_mail_65": rows[i][12],
-          "outlook_11": rows[i][13],
-          "postbox": rows[i][14],
-          "thunderbird_17": rows[i][15]
+          "Apple Mail 6.5": rows[i][12],
+          "Outlook 2011": rows[i][13],
+          "Postbox": rows[i][14],
+          "Thunderbird 17": rows[i][15]
         },
         "mobile": {
-          "ios_7": rows[i][16],
-          "blackberry_6": rows[i][17],
-          "android_4": rows[i][18],
-          "gmail": rows[i][19],
-          "wp_75": rows[i][20],
-          "sgs_4": rows[i][21],
-          "mailbox_ios7": rows[i][22],
-          "sparrow_ios7": rows[i][23]
+          "iPhone / iPad (iOS 7)": rows[i][16],
+          "Blackberry 6": rows[i][17],
+          "Android 4 (Default)": rows[i][18],
+          "Gmail": rows[i][19],
+          "Windows Mobile 7.5": rows[i][20],
+          "Samsung Galaxy S4 (Default)": rows[i][21],
+          "Mailbox (iOS 7)": rows[i][22],
+          "Sparrow (iOS 7)": rows[i][23]
         }
       },
       "notes": [{"note": ""}],
