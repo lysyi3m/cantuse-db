@@ -4,10 +4,13 @@
   "description": "CantUse proj base data in raw (and, optionally, compiled) json format",
   "author": "Emil Kashkevich <emil.kashkevich@gmail.com>",
   "devDependencies": {
+    "babyparse": "^0.4.3",
     "gulp": "^3.9.0",
     "gulp-concat-json": "^1.0.0",
     "gulp-json-fmt": "^1.0.0",
-    "gulp-jsonlint": "^1.1.0"
+    "gulp-jsonlint": "^1.1.0",
+    "optimist": "^0.6.1",
+    "q": "^1.4.1"
   },
   "repository": {
     "type": "git",
