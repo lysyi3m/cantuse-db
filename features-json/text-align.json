@@ -1,7 +1,8 @@
 {
+  "file": "text-align",
   "title": "text-align",
-  "description": "",
-  "spec": "",
+  "description": "The text-align CSS property describes how inline content like text is aligned in its parent block element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-align",
   "css_version": "2",
   "links": [
     {

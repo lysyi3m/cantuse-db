@@ -1,7 +1,8 @@
 {
-  "title": "selector-first-line",
-  "description": "",
-  "spec": "",
+  "file": "pseudo-element-first-line",
+  "title": "CSS pseudo-element ::first-line(:first-line)",
+  "description": "The ::first-line CSS pseudo-element applies styles only to the first line of an element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%3A%3Afirst-line",
   "css_version": "1",
   "links": [
     {

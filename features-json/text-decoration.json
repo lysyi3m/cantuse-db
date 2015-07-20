@@ -1,7 +1,8 @@
 {
+  "file": "text-decoration",
   "title": "text-decoration",
-  "description": "",
-  "spec": "",
+  "description": "The text-decoration CSS property is used to set the text formatting to underline, overline, line-through or blink. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration",
   "css_version": "2",
   "links": [
     {

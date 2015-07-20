@@ -1,7 +1,8 @@
 {
+  "file": "background-repeat",
   "title": "background-repeat",
-  "description": "",
-  "spec": "",
+  "description": "The background-repeat CSS property defines how background images are repeated.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat",
   "css_version": "2",
   "links": [
     {

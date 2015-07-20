@@ -1,7 +1,8 @@
 {
+  "file": "direction",
   "title": "direction",
-  "description": "",
-  "spec": "",
+  "description": "Set the direction CSS property to match the direction of the text: rtl for languages written from right-to-left (like Hebrew or Arabic) text and ltr for other scripts.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/direction",
   "css_version": "2",
   "links": [
     {

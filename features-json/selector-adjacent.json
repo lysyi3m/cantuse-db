@@ -1,8 +1,9 @@
 {
-  "title": "selector-last-of-type",
-  "description": "",
-  "spec": "",
-  "css_version": "3",
+  "file": "selector-adjacent",
+  "title": "CSS adjacent selector",
+  "description": "This is referred to as an adjacent selector. It will select only the specified element that immediately follows the former specified element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_selectors",
+  "css_version": "2",
   "links": [
     {
       "url": "",
@@ -13,14 +14,14 @@
   "stats": {
     "web": {
       "Outlook.com": "Yes",
-      "Yahoo! Mail": "No",
+      "Yahoo! Mail": "Yes",
       "Gmail": "No",
       "AOL Mail": "Yes"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "No",
-      "Windows Live Mail 2011": "No",
+      "Outlook '03 / Express / Mail": "Yes",
+      "Windows Live Mail 2011": "Yes",
       "Notes 6 / 7": "No",
       "Lotus Notes 8.5": "No",
       "AOL Desktop 10": "No"

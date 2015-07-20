@@ -1,7 +1,8 @@
 {
-  "title": "selector-element",
-  "description": "",
-  "spec": "",
+  "file": "selector-descendant",
+  "title": "CSS descendant selector",
+  "description": "The ␣ combinator (that's meant to represent a space, or more properly one or more whitespace characters) combines two selectors such that the combined selector matches only those elements matching the second selector for which there is an ancestor element matching the first selector. Descendant selectors are similar to child selectors, but they do not require that the relationship between matched elements be strictly parent-child.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors",
   "css_version": "1",
   "links": [
     {

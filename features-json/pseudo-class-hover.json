@@ -1,9 +1,9 @@
 {
-  "file": "selector-class",
-  "title": "CSS class selector",
-  "description": "In an HTML document, CSS class selectors match an element based on the contents of the element's class attribute",
-  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",
-  "css_version": "1",
+  "file": "pseudo-class-hover",
+  "title": "CSS pseudo-class :hover",
+  "description": "The :hover CSS pseudo-class matches when the user designates an element with a pointing device, but does not necessarily activate it.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+  "css_version": "2",
   "links": [
     {
       "url": "",
@@ -19,10 +19,10 @@
       "AOL Mail": "Yes"
     },
     "pc": {
-      "Outlook '07 / '10 / ‘13": "Yes",
+      "Outlook '07 / '10 / ‘13": "No",
       "Outlook '03 / Express / Mail": "Yes",
       "Windows Live Mail 2011": "Yes",
-      "Notes 6 / 7": "Yes",
+      "Notes 6 / 7": "No",
       "Lotus Notes 8.5": "Yes",
       "AOL Desktop 10": "Yes"
     },
@@ -33,11 +33,11 @@
       "Thunderbird 17": "Yes"
     },
     "mobile": {
-      "iPhone / iPad (iOS 7)": "Yes",
-      "Blackberry 6": "Yes",
-      "Android 4 (Default)": "Yes",
+      "iPhone / iPad (iOS 7)": "No",
+      "Blackberry 6": "No",
+      "Android 4 (Default)": "No",
       "Gmail": "No",
-      "Windows Mobile 7.5": "Yes",
+      "Windows Mobile 7.5": "No",
       "Samsung Galaxy S4 (Default)": "",
       "Mailbox (iOS 7)": "No",
       "Sparrow (iOS 7)": "Yes"

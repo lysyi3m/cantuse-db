@@ -1,7 +1,8 @@
 {
+  "file": "font-variant",
   "title": "font-variant",
-  "description": "",
-  "spec": "",
+  "description": "This property acts as a shorthand for the longhand properties: font-variant-caps, font-variant-numeric, font-variant-alternates, font-variant-ligatures, and font-variant-east-asian.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant",
   "css_version": "2",
   "links": [
     {

@@ -1,8 +1,9 @@
 {
-  "title": "selector-first-child",
-  "description": "",
-  "spec": "",
-  "css_version": "2",
+  "file": "pseudo-class-not",
+  "title": "CSS pseudo-class :not()",
+  "description": "The negation CSS pseudo-class, :not(X), is a functional notation taking a simple selector X as an argument. It matches an element that is not represented by the argument. X must not contain another negation selector.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:not",
+  "css_version": "3",
   "links": [
     {
       "url": "",
@@ -12,15 +13,15 @@
   "categories": [],
   "stats": {
     "web": {
-      "Outlook.com": "Yes",
+      "Outlook.com": "No",
       "Yahoo! Mail": "No",
       "Gmail": "No",
       "AOL Mail": "Yes"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "Yes",
-      "Windows Live Mail 2011": "Yes",
+      "Outlook '03 / Express / Mail": "No",
+      "Windows Live Mail 2011": "No",
       "Notes 6 / 7": "No",
       "Lotus Notes 8.5": "No",
       "AOL Desktop 10": "No"

@@ -1,7 +1,8 @@
 {
+  "file": "word-wrap",
   "title": "word-wrap",
-  "description": "",
-  "spec": "",
+  "description": "The word-wrap property is used to specify whether or not the browser may break lines within words in order to prevent overflow when an otherwise unbreakable string is too long to fit in its containing box.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-wrap",
   "css_version": "3",
   "links": [
     {

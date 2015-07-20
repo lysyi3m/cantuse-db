@@ -1,8 +1,9 @@
 {
-  "title": "selector-hover",
-  "description": "",
-  "spec": "",
-  "css_version": "2",
+  "file": "selector-sibling",
+  "title": "CSS general sibling selector",
+  "description": "The ~ combinator separates two selectors and matches the second element only if it is preceded by the first, and both share a common parent.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_selectors",
+  "css_version": "3",
   "links": [
     {
       "url": "",
@@ -13,7 +14,7 @@
   "stats": {
     "web": {
       "Outlook.com": "Yes",
-      "Yahoo! Mail": "Yes",
+      "Yahoo! Mail": "No",
       "Gmail": "No",
       "AOL Mail": "Yes"
     },
@@ -22,8 +23,8 @@
       "Outlook '03 / Express / Mail": "Yes",
       "Windows Live Mail 2011": "Yes",
       "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "Yes",
-      "AOL Desktop 10": "Yes"
+      "Lotus Notes 8.5": "No",
+      "AOL Desktop 10": "No"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
@@ -32,11 +33,11 @@
       "Thunderbird 17": "Yes"
     },
     "mobile": {
-      "iPhone / iPad (iOS 7)": "No",
-      "Blackberry 6": "No",
-      "Android 4 (Default)": "No",
+      "iPhone / iPad (iOS 7)": "Yes",
+      "Blackberry 6": "Yes",
+      "Android 4 (Default)": "Yes",
       "Gmail": "No",
-      "Windows Mobile 7.5": "No",
+      "Windows Mobile 7.5": "Yes",
       "Samsung Galaxy S4 (Default)": "",
       "Mailbox (iOS 7)": "No",
       "Sparrow (iOS 7)": "Yes"

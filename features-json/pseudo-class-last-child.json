@@ -1,7 +1,8 @@
 {
-  "title": "selector-nth-of-type",
-  "description": "",
-  "spec": "",
+  "file": "pseudo-class-last-child",
+  "title": "CSS pseudo-class :last-child",
+  "description": "The :last-child CSS pseudo-class represents any element that is the last child element of its parent.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child",
   "css_version": "3",
   "links": [
     {

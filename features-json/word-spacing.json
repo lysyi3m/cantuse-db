@@ -1,7 +1,8 @@
 {
+  "file": "word-spacing",
   "title": "word-spacing",
-  "description": "",
-  "spec": "",
+  "description": "The word-spacing property specifies spacing behavior between tags and words.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing",
   "css_version": "2",
   "links": [
     {

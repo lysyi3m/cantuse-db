@@ -1,7 +1,8 @@
 {
-  "title": "selector-not",
-  "description": "",
-  "spec": "",
+  "file": "pseudo-class-nth-last-child",
+  "title": "CSS pseudo-class :nth-last-child",
+  "description": "The :nth-last-child CSS pseudo-class matches an element that has an+b-1 siblings after it in the document tree, for a given positive or zero value for n, and has a parent element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-child",
   "css_version": "3",
   "links": [
     {
@@ -12,7 +13,7 @@
   "categories": [],
   "stats": {
     "web": {
-      "Outlook.com": "No",
+      "Outlook.com": "Yes",
       "Yahoo! Mail": "No",
       "Gmail": "No",
       "AOL Mail": "Yes"

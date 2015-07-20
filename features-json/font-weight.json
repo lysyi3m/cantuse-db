@@ -1,7 +1,8 @@
 {
+  "file": "font-weight",
   "title": "font-weight",
-  "description": "",
-  "spec": "",
+  "description": "The font-weight CSS property specifies the weight or boldness of the font.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight",
   "css_version": "2",
   "links": [
     {

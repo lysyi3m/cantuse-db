@@ -1,8 +1,9 @@
 {
-  "title": "selector-empty",
-  "description": "",
-  "spec": "",
-  "css_version": "3",
+  "file": "pseudo-class-focus",
+  "title": "CSS pseudo-class :focus",
+  "description": "The :focus CSS pseudo-class is applied when a element has received focus, either from the user selecting it with the use of a keyboard or by activating with the mouse (e.g. a form input).",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus",
+  "css_version": "2",
   "links": [
     {
       "url": "",
@@ -15,7 +16,7 @@
       "Outlook.com": "Yes",
       "Yahoo! Mail": "No",
       "Gmail": "No",
-      "AOL Mail": "Yes"
+      "AOL Mail": "No"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
@@ -27,19 +28,19 @@
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
-      "Outlook 2011": "Yes",
+      "Outlook 2011": "No",
       "Postbox": "Yes",
       "Thunderbird 17": "Yes"
     },
     "mobile": {
       "iPhone / iPad (iOS 7)": "Yes",
       "Blackberry 6": "Yes",
-      "Android 4 (Default)": "Yes",
+      "Android 4 (Default)": "No",
       "Gmail": "No",
-      "Windows Mobile 7.5": "Yes",
+      "Windows Mobile 7.5": "No",
       "Samsung Galaxy S4 (Default)": "",
       "Mailbox (iOS 7)": "No",
-      "Sparrow (iOS 7)": "Yes"
+      "Sparrow (iOS 7)": "No"
     }
   },
   "notes": [

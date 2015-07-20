@@ -1,7 +1,8 @@
 {
+  "file": "background-size",
   "title": "background-size",
-  "description": "",
-  "spec": "",
+  "description": "The background-size CSS property specifies the size of the background images. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-size",
   "css_version": "3",
   "links": [
     {

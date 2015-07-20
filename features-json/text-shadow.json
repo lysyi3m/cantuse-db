@@ -1,7 +1,8 @@
 {
+  "file": "text-shadow",
   "title": "text-shadow",
-  "description": "",
-  "spec": "",
+  "description": "The text-shadow property adds shadows to text. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow",
   "css_version": "3",
   "links": [
     {

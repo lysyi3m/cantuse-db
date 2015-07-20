@@ -1,7 +1,8 @@
 {
+  "file": "color",
   "title": "color",
-  "description": "",
-  "spec": "",
+  "description": "The color property sets the foreground color of an element's text content, and its decorations. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/color",
   "css_version": "2",
   "links": [
     {

@@ -1,7 +1,8 @@
 {
-  "title": "selector-first-of-type",
-  "description": "",
-  "spec": "",
+  "file": "pseudo-class-first-of-type",
+  "title": "CSS pseudo-class :first-of-type",
+  "description": "The :first-of-type CSS pseudo-class represents the first sibling of its type in the list of children of its parent element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type",
   "css_version": "3",
   "links": [
     {

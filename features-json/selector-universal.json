@@ -1,7 +1,8 @@
 {
-  "title": "selector-element-after",
-  "description": "",
-  "spec": "",
+  "file": "selector-universal",
+  "title": "CSS universal selector (asterisk)",
+  "description": "An Asterisk (*) is the universal selector for CSS. It matches a single element of any type.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors",
   "css_version": "2",
   "links": [
     {
@@ -12,18 +13,18 @@
   "categories": [],
   "stats": {
     "web": {
-      "Outlook.com": "Yes",
-      "Yahoo! Mail": "Yes",
-      "Gmail": "No",
-      "AOL Mail": "Yes"
+      "Outlook.com": "No",
+      "Yahoo! Mail": "No",
+      "Gmail": "Partial/Buggy",
+      "AOL Mail": "No"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
       "Outlook '03 / Express / Mail": "Yes",
       "Windows Live Mail 2011": "Yes",
-      "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "No",
-      "AOL Desktop 10": "No"
+      "Notes 6 / 7": "Yes",
+      "Lotus Notes 8.5": "Yes",
+      "AOL Desktop 10": "Yes"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",

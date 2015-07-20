@@ -1,8 +1,9 @@
 {
-  "title": "selector-nth-last-child",
-  "description": "",
-  "spec": "",
-  "css_version": "3",
+  "file": "pseudo-class-first-child",
+  "title": "CSS pseudo-class :first-child",
+  "description": "The :first-child CSS pseudo-class represents any element that is the first child element of its parent.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child",
+  "css_version": "2",
   "links": [
     {
       "url": "",
@@ -19,8 +20,8 @@
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "No",
-      "Windows Live Mail 2011": "No",
+      "Outlook '03 / Express / Mail": "Yes",
+      "Windows Live Mail 2011": "Yes",
       "Notes 6 / 7": "No",
       "Lotus Notes 8.5": "No",
       "AOL Desktop 10": "No"

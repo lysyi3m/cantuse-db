@@ -1,8 +1,9 @@
 {
-  "title": "selector-all",
-  "description": "",
-  "spec": "",
-  "css_version": "2",
+  "file": "pseudo-class-empty",
+  "title": "CSS pseudo-class :empty",
+  "description": "The :empty pseudo-class represents any element that has no children at all. Only element nodes and text (including whitespace) are considered. Comments or processing instructions do not affect whether an element is considered empty or not",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:empty",
+  "css_version": "3",
   "links": [
     {
       "url": "",
@@ -12,18 +13,18 @@
   "categories": [],
   "stats": {
     "web": {
-      "Outlook.com": "No",
+      "Outlook.com": "Yes",
       "Yahoo! Mail": "No",
-      "Gmail": "Partial/Buggy",
-      "AOL Mail": "No"
+      "Gmail": "No",
+      "AOL Mail": "Yes"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "Yes",
-      "Windows Live Mail 2011": "Yes",
-      "Notes 6 / 7": "Yes",
-      "Lotus Notes 8.5": "Yes",
-      "AOL Desktop 10": "Yes"
+      "Outlook '03 / Express / Mail": "No",
+      "Windows Live Mail 2011": "No",
+      "Notes 6 / 7": "No",
+      "Lotus Notes 8.5": "No",
+      "AOL Desktop 10": "No"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",

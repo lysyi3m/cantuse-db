@@ -1,7 +1,8 @@
 {
+  "file": "vertical-align",
   "title": "vertical-align",
-  "description": "",
-  "spec": "",
+  "description": "The vertical-align CSS property specifies the vertical alignment of an inline or table-cell box.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align",
   "css_version": "2",
   "links": [
     {

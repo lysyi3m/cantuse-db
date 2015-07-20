@@ -1,8 +1,9 @@
 {
-  "title": "selector-first-letter",
-  "description": "",
-  "spec": "",
-  "css_version": "1",
+  "file": "pseudo-class-nth-child",
+  "title": "CSS pseudo-class :nth-child",
+  "description": "The :nth-child(an+b) CSS pseudo-class matches an element that has an+b-1 siblings before it in the document tree, for a given positive or zero value for n, and has a parent element. More simply stated, the selector matches a number of child elements whose numeric position in the series of children matches the pattern an+b.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child",
+  "css_version": "3",
   "links": [
     {
       "url": "",
@@ -13,23 +14,23 @@
   "stats": {
     "web": {
       "Outlook.com": "Yes",
-      "Yahoo! Mail": "Yes",
+      "Yahoo! Mail": "No",
       "Gmail": "No",
       "AOL Mail": "Yes"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "Yes",
+      "Outlook '03 / Express / Mail": "No",
       "Windows Live Mail 2011": "No",
       "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "Yes",
-      "AOL Desktop 10": "Yes"
+      "Lotus Notes 8.5": "No",
+      "AOL Desktop 10": "No"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
       "Outlook 2011": "Yes",
-      "Postbox": "No",
-      "Thunderbird 17": "No"
+      "Postbox": "Yes",
+      "Thunderbird 17": "Yes"
     },
     "mobile": {
       "iPhone / iPad (iOS 7)": "Yes",

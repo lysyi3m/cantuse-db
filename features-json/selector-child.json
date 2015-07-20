@@ -1,7 +1,8 @@
 {
-  "title": "selector-active",
-  "description": "",
-  "spec": "",
+  "file": "selector-child",
+  "title": "CSS child selector",
+  "description": "The > combinator separates two selectors and matches only those elements matched by the second selector that are direct children of elements matched by the first.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors",
   "css_version": "2",
   "links": [
     {
@@ -14,16 +15,16 @@
     "web": {
       "Outlook.com": "Yes",
       "Yahoo! Mail": "Yes",
-      "Gmail": "No",
-      "AOL Mail": "Yes"
+      "Gmail": "Partial/Buggy",
+      "AOL Mail": "No"
     },
     "pc": {
       "Outlook '07 / '10 / ‘13": "No",
       "Outlook '03 / Express / Mail": "Yes",
       "Windows Live Mail 2011": "Yes",
       "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "Yes",
-      "AOL Desktop 10": "Yes"
+      "Lotus Notes 8.5": "No",
+      "AOL Desktop 10": "No"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
@@ -32,14 +33,14 @@
       "Thunderbird 17": "Yes"
     },
     "mobile": {
-      "iPhone / iPad (iOS 7)": "No",
+      "iPhone / iPad (iOS 7)": "Yes",
       "Blackberry 6": "No",
-      "Android 4 (Default)": "No",
+      "Android 4 (Default)": "Yes",
       "Gmail": "No",
-      "Windows Mobile 7.5": "No",
+      "Windows Mobile 7.5": "Yes",
       "Samsung Galaxy S4 (Default)": "",
       "Mailbox (iOS 7)": "No",
-      "Sparrow (iOS 7)": "No"
+      "Sparrow (iOS 7)": "Yes"
     }
   },
   "notes": [

@@ -23,42 +23,43 @@ var formatData = function(data) {
   var rows = babyParse.parse(data).data;
   for (var i in rows) {
     var feature = {
-      "title": rows[i][0],
-      "description": "",
-      "spec": "",
-      "css_version": rows[i][1],
+      "file": rows[i][0],
+      "title": rows[i][1],
+      "description": rows[i][2],
+      "spec": rows[i][3],
+      "css_version": rows[i][4],
       "links": [{"url": "","title": ""}],
       "categories": [],
       "stats": {
         "web": {
-          "Outlook.com": rows[i][2],
-          "Yahoo! Mail": rows[i][3],
-          "Gmail": rows[i][4],
-          "AOL Mail": rows[i][5]
+          "Outlook.com": rows[i][5],
+          "Yahoo! Mail": rows[i][6],
+          "Gmail": rows[i][7],
+          "AOL Mail": rows[i][8]
         },
         "pc": {
-          "Outlook '07 / '10 / ‘13": rows[i][6],
-          "Outlook '03 / Express / Mail": rows[i][7],
-          "Windows Live Mail 2011": rows[i][8],
-          "Notes 6 / 7": rows[i][9],
-          "Lotus Notes 8.5": rows[i][10],
-          "AOL Desktop 10": rows[i][11]
+          "Outlook '07 / '10 / ‘13": rows[i][9],
+          "Outlook '03 / Express / Mail": rows[i][10],
+          "Windows Live Mail 2011": rows[i][11],
+          "Notes 6 / 7": rows[i][12],
+          "Lotus Notes 8.5": rows[i][13],
+          "AOL Desktop 10": rows[i][14]
         },
         "mac": {
-          "Apple Mail 6.5": rows[i][12],
-          "Outlook 2011": rows[i][13],
-          "Postbox": rows[i][14],
-          "Thunderbird 17": rows[i][15]
+          "Apple Mail 6.5": rows[i][15],
+          "Outlook 2011": rows[i][16],
+          "Postbox": rows[i][17],
+          "Thunderbird 17": rows[i][18]
         },
         "mobile": {
-          "iPhone / iPad (iOS 7)": rows[i][16],
-          "Blackberry 6": rows[i][17],
-          "Android 4 (Default)": rows[i][18],
-          "Gmail": rows[i][19],
-          "Windows Mobile 7.5": rows[i][20],
-          "Samsung Galaxy S4 (Default)": rows[i][21],
-          "Mailbox (iOS 7)": rows[i][22],
-          "Sparrow (iOS 7)": rows[i][23]
+          "iPhone / iPad (iOS 7)": rows[i][19],
+          "Blackberry 6": rows[i][20],
+          "Android 4 (Default)": rows[i][21],
+          "Gmail": rows[i][22],
+          "Windows Mobile 7.5": rows[i][23],
+          "Samsung Galaxy S4 (Default)": rows[i][24],
+          "Mailbox (iOS 7)": rows[i][25],
+          "Sparrow (iOS 7)": rows[i][26]
         }
       },
       "notes": [{"note": ""}],
@@ -72,7 +73,7 @@ var formatData = function(data) {
 // Write files
 var writeJSON = function(features) {
   for (var i in features) {
-    var fileName = path.join(__dirname, './features-json/' + features[i].title + '.json')
+    var fileName = path.join(__dirname, './features-json/' + features[i].file + '.json')
     fs.writeFile(fileName, JSON.stringify(features[i]), 'utf8', function(error) {
       if (error) {
         return console.error(error);

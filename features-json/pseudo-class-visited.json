@@ -1,7 +1,8 @@
 {
-  "title": "selector-visited",
-  "description": "",
-  "spec": "",
+  "file": "pseudo-class-visited",
+  "title": "CSS pseudo-class :visited",
+  "description": "The :visited CSS pseudo-class lets you select only links that have been visited. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:visited",
   "css_version": "1",
   "links": [
     {

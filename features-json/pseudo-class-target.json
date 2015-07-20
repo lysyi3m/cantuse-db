@@ -1,8 +1,9 @@
 {
-  "title": "selector-focus",
-  "description": "",
-  "spec": "",
-  "css_version": "2",
+  "file": "pseudo-class-target",
+  "title": "CSS pseudo-class :target",
+  "description": "The :target pseudo-class represents the unique element, if any, with an id matching the fragment identifier of the URI of the document..",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:target",
+  "css_version": "3",
   "links": [
     {
       "url": "",
@@ -26,14 +27,14 @@
       "AOL Desktop 10": "No"
     },
     "mac": {
-      "Apple Mail 6.5": "Yes",
+      "Apple Mail 6.5": "No",
       "Outlook 2011": "No",
-      "Postbox": "Yes",
-      "Thunderbird 17": "Yes"
+      "Postbox": "No",
+      "Thunderbird 17": "No"
     },
     "mobile": {
-      "iPhone / iPad (iOS 7)": "Yes",
-      "Blackberry 6": "Yes",
+      "iPhone / iPad (iOS 7)": "No",
+      "Blackberry 6": "No",
       "Android 4 (Default)": "No",
       "Gmail": "No",
       "Windows Mobile 7.5": "No",

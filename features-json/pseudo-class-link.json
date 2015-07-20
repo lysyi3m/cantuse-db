@@ -1,8 +1,9 @@
 {
-  "title": "selector-children-first",
-  "description": "",
-  "spec": "",
-  "css_version": "2",
+  "file": "pseudo-class-link",
+  "title": "CSS pseudo-class :link",
+  "description": "The :link CSS pseudo-class lets you select links inside elements. This will select any link which has not yet been visited, even those already styled using selector with other link-related pseudo-classes like :hover, :active or :visited. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:link",
+  "css_version": "1",
   "links": [
     {
       "url": "",
@@ -12,18 +13,18 @@
   "categories": [],
   "stats": {
     "web": {
-      "Outlook.com": "Yes",
-      "Yahoo! Mail": "Yes",
-      "Gmail": "Partial/Buggy",
-      "AOL Mail": "No"
+      "Outlook.com": "No",
+      "Yahoo! Mail": "No",
+      "Gmail": "No",
+      "AOL Mail": "Yes"
     },
     "pc": {
-      "Outlook '07 / '10 / ‘13": "No",
+      "Outlook '07 / '10 / ‘13": "Yes",
       "Outlook '03 / Express / Mail": "Yes",
       "Windows Live Mail 2011": "Yes",
-      "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "No",
-      "AOL Desktop 10": "No"
+      "Notes 6 / 7": "Yes",
+      "Lotus Notes 8.5": "Yes",
+      "AOL Desktop 10": "Yes"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
@@ -33,7 +34,7 @@
     },
     "mobile": {
       "iPhone / iPad (iOS 7)": "Yes",
-      "Blackberry 6": "No",
+      "Blackberry 6": "Yes",
       "Android 4 (Default)": "Yes",
       "Gmail": "No",
       "Windows Mobile 7.5": "Yes",

@@ -1,7 +1,8 @@
 {
-  "title": "media-queries",
-  "description": "",
-  "spec": "",
+  "file": "media-queries",
+  "title": "@media",
+  "description": "The @media rule is used to define different style rules for different media types/devices.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%40media",
   "css_version": "",
   "links": [
     {

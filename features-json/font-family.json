@@ -1,7 +1,8 @@
 {
+  "file": "font-family",
   "title": "font-family",
-  "description": "",
-  "spec": "",
+  "description": "The font-family CSS property lets you specify a prioritized list of font family names and/or generic family names for the selected element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-family",
   "css_version": "2",
   "links": [
     {

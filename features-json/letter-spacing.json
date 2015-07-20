@@ -1,7 +1,8 @@
 {
+  "file": "letter-spacing",
   "title": "letter-spacing",
-  "description": "",
-  "spec": "",
+  "description": "The letter-spacing CSS property specifies spacing behavior between text characters.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing",
   "css_version": "2",
   "links": [
     {

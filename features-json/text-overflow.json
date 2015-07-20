@@ -1,7 +1,8 @@
 {
+  "file": "text-overflow",
   "title": "text-overflow",
-  "description": "",
-  "spec": "",
+  "description": "The text-overflow property determines how overflowed content that is not displayed is signaled to users. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow",
   "css_version": "3",
   "links": [
     {

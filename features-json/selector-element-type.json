@@ -1,8 +1,9 @@
 {
-  "title": "selector-after",
-  "description": "",
-  "spec": "",
-  "css_version": "2",
+  "file": "selector-element-type",
+  "title": "CSS type selector",
+  "description": "CSS type selectors match elements by node name",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors",
+  "css_version": "1",
   "links": [
     {
       "url": "",
@@ -12,18 +13,18 @@
   "categories": [],
   "stats": {
     "web": {
-      "Outlook.com": "No",
-      "Yahoo! Mail": "No",
+      "Outlook.com": "Yes",
+      "Yahoo! Mail": "Yes",
       "Gmail": "No",
       "AOL Mail": "Yes"
     },
     "pc": {
-      "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "No",
-      "Windows Live Mail 2011": "No",
-      "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "No",
-      "AOL Desktop 10": "No"
+      "Outlook '07 / '10 / ‘13": "Yes",
+      "Outlook '03 / Express / Mail": "Yes",
+      "Windows Live Mail 2011": "Yes",
+      "Notes 6 / 7": "Yes",
+      "Lotus Notes 8.5": "Yes",
+      "AOL Desktop 10": "Yes"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
