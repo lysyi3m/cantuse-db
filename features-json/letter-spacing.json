@@ -1,5 +1,4 @@
 {
-  "file": "letter-spacing",
   "title": "letter-spacing",
   "description": "The letter-spacing CSS property specifies spacing behavior between text characters.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing",

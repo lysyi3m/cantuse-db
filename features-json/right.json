@@ -1,8 +1,7 @@
 {
-  "file": "right",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "right",
+  "description": "The right CSS property specifies part of the position of positioned elements.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/right",
   "css_version": "2",
   "links": [
     {

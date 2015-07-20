@@ -1,8 +1,7 @@
 {
-  "file": "border-image",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "border-image",
+  "description": "The border-image CSS property allows drawing an image on the borders of elements. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image",
   "css_version": "3",
   "links": [
     {

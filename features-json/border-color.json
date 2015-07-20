@@ -1,8 +1,7 @@
 {
-  "file": "border-color",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "border-color",
+  "description": "The border-color CSS property is a shorthand for setting the color of the four sides of an element's border",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-color",
   "css_version": "3",
   "links": [
     {

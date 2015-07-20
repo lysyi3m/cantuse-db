@@ -1,5 +1,4 @@
 {
-  "file": "selector-attribute",
   "title": "CSS attribute selector [attr]",
   "description": "Represents an element with an attribute name of attr.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",

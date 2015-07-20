@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-first-child",
   "title": "CSS pseudo-class :first-child",
   "description": "The :first-child CSS pseudo-class represents any element that is the first child element of its parent.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child",

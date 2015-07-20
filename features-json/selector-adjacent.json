@@ -1,5 +1,4 @@
 {
-  "file": "selector-adjacent",
   "title": "CSS adjacent selector",
   "description": "This is referred to as an adjacent selector. It will select only the specified element that immediately follows the former specified element.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_selectors",

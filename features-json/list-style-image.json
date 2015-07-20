@@ -1,8 +1,7 @@
 {
-  "file": "list-style-image",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "list-style-image",
+  "description": "The list-style-image property specifies an image to be used as the list item marker.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image",
   "css_version": "2",
   "links": [
     {

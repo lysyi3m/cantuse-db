@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-empty",
   "title": "CSS pseudo-class :empty",
   "description": "The :empty pseudo-class represents any element that has no children at all. Only element nodes and text (including whitespace) are considered. Comments or processing instructions do not affect whether an element is considered empty or not",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:empty",

@@ -1,8 +1,7 @@
 {
-  "file": "position",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "position",
+  "description": "The position CSS property chooses alternative rules for positioning elements",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
   "css_version": "2",
   "links": [
     {

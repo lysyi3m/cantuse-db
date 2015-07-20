@@ -1,5 +1,4 @@
 {
-  "file": "selector-element-type",
   "title": "CSS type selector",
   "description": "CSS type selectors match elements by node name",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors",

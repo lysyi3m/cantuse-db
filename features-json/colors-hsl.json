@@ -1,8 +1,7 @@
 {
-  "file": "colors-hsl",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "HSL color values",
+  "description": "HSL colors are encoding as a triple (hue, saturation, lightness).",
+  "spec": "http://www.w3.org/TR/css3-color/#hsl-color",
   "css_version": "3",
   "links": [
     {

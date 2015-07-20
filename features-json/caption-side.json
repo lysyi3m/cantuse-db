@@ -1,8 +1,7 @@
 {
-  "file": "caption-side",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "caption-side",
+  "description": "The caption-side CSS property positions the content of a table's <caption> on the specified side.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side",
   "css_version": "2",
   "links": [
     {

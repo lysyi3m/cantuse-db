@@ -1,8 +1,7 @@
 {
-  "file": "left",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "left",
+  "description": "The left CSS property specifies part of the position of positioned elements.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/left",
   "css_version": "2",
   "links": [
     {

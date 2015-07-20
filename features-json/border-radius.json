@@ -1,8 +1,7 @@
 {
-  "file": "border-radius",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "border-radius",
+  "description": "The border-radius CSS property allows Web authors to define how rounded border corners are.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
   "css_version": "3",
   "links": [
     {

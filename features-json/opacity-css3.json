@@ -1,8 +1,8 @@
 {
-  "title": "width",
-  "description": "The width CSS property specifies the width of the content area of an element. ",
-  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/width",
-  "css_version": "2",
+  "title": "opacity",
+  "description": "",
+  "spec": "",
+  "css_version": "3",
   "links": [
     {
       "url": "",
@@ -13,17 +13,17 @@
   "stats": {
     "web": {
       "Outlook.com": "Yes",
-      "Yahoo! Mail": "Yes",
-      "Gmail": "Yes",
+      "Yahoo! Mail": "No",
+      "Gmail": "No",
       "AOL Mail": "Yes"
     },
     "pc": {
-      "Outlook '07 / '10 / ‘13": "Partial/Buggy",
-      "Outlook '03 / Express / Mail": "Yes",
-      "Windows Live Mail 2011": "Yes",
+      "Outlook '07 / '10 / ‘13": "No",
+      "Outlook '03 / Express / Mail": "No",
+      "Windows Live Mail 2011": "No",
       "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "Yes",
-      "AOL Desktop 10": "Yes"
+      "Lotus Notes 8.5": "No",
+      "AOL Desktop 10": "No"
     },
     "mac": {
       "Apple Mail 6.5": "Yes",
@@ -35,11 +35,11 @@
       "iPhone / iPad (iOS 7)": "Yes",
       "Blackberry 6": "Yes",
       "Android 4 (Default)": "Yes",
-      "Gmail": "Yes",
+      "Gmail": "No",
       "Windows Mobile 7.5": "Yes",
       "Samsung Galaxy S4 (Default)": "Yes",
       "Mailbox (iOS 7)": "Yes",
-      "Sparrow (iOS 7)": "Partial/Buggy"
+      "Sparrow (iOS 7)": "Yes"
     }
   },
   "notes": [

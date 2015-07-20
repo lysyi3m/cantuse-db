@@ -1,5 +1,4 @@
 {
-  "file": "text-transform",
   "title": "text-transform",
   "description": "The text-transform CSS property specifies how to capitalize an element's text. ",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform",

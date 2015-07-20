@@ -1,5 +1,4 @@
 {
-  "file": "white-space",
   "title": "white-space",
   "description": "The white-space property is used to describe how whitespace inside the element is handled.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/white-space",

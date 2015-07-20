@@ -1,8 +1,7 @@
 {
-  "file": "border-spacing",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "border-spacing",
+  "description": "The border-spacing CSS property specifies the distance between the borders of adjacent table cells",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing",
   "css_version": "2",
   "links": [
     {

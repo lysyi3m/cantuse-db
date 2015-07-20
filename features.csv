@@ -67,45 +67,45 @@ background-image;background-image;The CSS background-image property sets one or 
 background-position;background-position;The background-position CSS property sets the initial position, relative to the background position layer defined by background-origin for each defined background image.;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position;2;No;Yes;No;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes
 background-repeat;background-repeat;The background-repeat CSS property defines how background images are repeated.;https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat;2;No;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes
 background-size;background-size;The background-size CSS property specifies the size of the background images. ;https://developer.mozilla.org/en-US/docs/Web/CSS/background-size;3;No;Partial/Buggy;No;Yes;No;No;No;No;No;No;Yes;Partial/Buggy;Yes;Yes;Yes;Partial/Buggy;Partial/Buggy;No;Yes;Yes;No;Yes
-colors-hsl;;;;3;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-colors-hsla;;;;3;No;No;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-opacity;;;;3;Yes;No;No;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-colors-rgba;;;;3;No;No;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-border;;;;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-border-color;;;;3;Yes;Yes;Yes;Yes;No;No;No;No;Yes;No;Yes;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes
-border-image;;;;3;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;Yes;No;No;No;Yes;;No;
-border-radius;;;;3;Yes;No;Yes;Yes;No;No;No;No;No;No;Yes;No;Yes;Yes;Yes;No;No;Yes;Yes;;Yes;Yes
-box-shadow;;;;3;Yes;No;No;Yes;No;No;No;No;No;No;Yes;No;Yes;Yes;Yes;No;No;No;Yes;;Yes;Yes
-height;;;;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-margin;;;;2;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-padding;;;;2;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-width;;;;2;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy
-max-width;;;;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
-min-width;;;;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
-bottom;;;;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes
-clear;;;;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Partial/Buggy
-clip;;;;2;No;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-cursor;;;;2;Yes;Yes;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No
-display;;;;2;Yes;Yes;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;Partial/Buggy;Partial/Buggy
-float;;;;2;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-left;;;;2;No;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-opacity;;;;2;Yes;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-outline;;;;3;Partial/Buggy;Partial/Buggy;Partial/Buggy;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;Yes;Yes
-overflow;;;;2;Partial/Buggy;Partial/Buggy;Partial/Buggy;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Partial/Buggy;Partial/Buggy;Partial/Buggy;Partial/Buggy;Yes;Yes
-position;;;;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;No;Yes;Yes;Yes;Yes
-resize;;;;3;Partial/Buggy;Partial/Buggy;No;Yes;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;;No;No
-right;;;;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-top;;;;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-visibility;;;;2;Yes;Yes;No;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
-z-index;;;;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-list-style-image;;;;2;No;Yes;No;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes
-list-style-position;;;;2;No;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Partial/Buggy
-list-style-type;;;;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-border-collapse;;;;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-border-spacing;;;;2;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
-caption-side;;;;2;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;Partial/Buggy;Yes;Yes;Yes
-empty-cells;;;;2;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-table-layout;;;;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
-canvas;;;;;No;No;No;No;No;No;No;No;No;No;No;;Yes;No;Yes;No;No;No;No;No;No;Yes
-audio;;;;;Partial/Buggy;No;No;No;No;No;No;No;No;No;Yes;;Yes;No;Yes;No;No;No;No;Yes;No;Yes
-video;;;;;Partial/Buggy;No;No;No;No;No;No;No;No;No;Yes;;Yes;No;Yes;No;No;No;No;Yes;No;Yes
+colors-hsl;HSL color values;HSL colors are encoding as a triple (hue, saturation, lightness).;http://www.w3.org/TR/css3-color/#hsl-color;3;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+colors-hsla;HSLA color values;Just as the ‘rgb()’ functional notation has the ‘rgba()’ alpha counterpart, the ‘hsl()’ functional notation has the ‘hsla()’ alpha counterpart.;http://www.w3.org/TR/css3-color/#hsla-color;3;No;No;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+opacity-css3;opacity;;;3;Yes;No;No;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+colors-rgba;RGBA color values;The RGB color model is extended in this specification to include “alpha” to allow specification of the opacity of a color.;http://www.w3.org/TR/css3-color/#rgba-color;3;No;No;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+border;border;The border CSS property is a shorthand property for setting the individual border property values in a single place in the style sheet. border can be used to set the values for one or more of: border-width, border-style, border-color.;https://developer.mozilla.org/en-US/docs/Web/CSS/border;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+border-color;border-color;The border-color CSS property is a shorthand for setting the color of the four sides of an element's border;https://developer.mozilla.org/en-US/docs/Web/CSS/border-color;3;Yes;Yes;Yes;Yes;No;No;No;No;Yes;No;Yes;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes
+border-image;border-image;The border-image CSS property allows drawing an image on the borders of elements. ;https://developer.mozilla.org/en-US/docs/Web/CSS/border-image;3;No;No;No;Yes;No;No;No;No;No;No;Yes;No;No;No;Yes;No;No;No;Yes;;No;
+border-radius;border-radius;The border-radius CSS property allows Web authors to define how rounded border corners are.;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius;3;Yes;No;Yes;Yes;No;No;No;No;No;No;Yes;No;Yes;Yes;Yes;No;No;Yes;Yes;;Yes;Yes
+box-shadow;box-shadow;The box-shadow property describes one or more shadow effects as a comma-separated list;https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow;3;Yes;No;No;Yes;No;No;No;No;No;No;Yes;No;Yes;Yes;Yes;No;No;No;Yes;;Yes;Yes
+height;height;The height CSS property specifies the height of the content area of an element. ;https://developer.mozilla.org/en-US/docs/Web/CSS/height;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+margin;margin;The margin CSS property sets the margin for all four sides.;https://developer.mozilla.org/en-US/docs/Web/CSS/margin;2;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+padding;padding;The padding property sets the padding space on all sides of an element.;https://developer.mozilla.org/en-US/docs/Web/CSS/padding;2;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+width;width;The width CSS property specifies the width of the content area of an element. ;https://developer.mozilla.org/en-US/docs/Web/CSS/width;2;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy
+max-width;max-width;The max-width property is used to set the maximum width of a given element. ;https://developer.mozilla.org/en-US/docs/Web/CSS/max-width;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
+min-width;min-width;The min-width property is used to set the minimum width of a given element.;https://developer.mozilla.org/en-US/docs/Web/CSS/min-width;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
+bottom;bottom;The bottom CSS property participates in specifying the position of positioned elements.;https://developer.mozilla.org/en-US/docs/Web/CSS/bottom;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes
+clear;clear;The clear CSS property specifies whether an element can be next to floating elements that precede it or must be moved down (cleared) below them.;https://developer.mozilla.org/en-US/docs/Web/CSS/clear;2;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Partial/Buggy
+clip;clip;The clip CSS property defines what portion of an element is visible.;https://developer.mozilla.org/en-US/docs/Web/CSS/clip;2;No;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+cursor;cursor;The cursor CSS property specifies the mouse cursor displayed when the mouse pointer is over an element.;https://developer.mozilla.org/en-US/docs/Web/CSS/cursor;2;Yes;Yes;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No
+display;display;The display CSS property specifies the type of rendering box used for an element.;https://developer.mozilla.org/en-US/docs/Web/CSS/display;2;Yes;Yes;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;Partial/Buggy;Partial/Buggy
+float;float;The float CSS property specifies that an element should be taken from the normal flow and placed along the left or right side of its container, where text and inline elements will wrap around it.;https://developer.mozilla.org/en-US/docs/Web/CSS/float;2;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+left;left;The left CSS property specifies part of the position of positioned elements.;https://developer.mozilla.org/en-US/docs/Web/CSS/left;2;No;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+opacity;opacity;The opacity CSS property specifies the transparency of an element, that is, the degree to which the background behind the element is overlaid.;https://developer.mozilla.org/en-US/docs/Web/CSS/opacity;2;Yes;No;No;Yes;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+outline;outline;The CSS outline property is a shorthand property for setting one or more of the individual outline properties outline-style, outline-width and outline-color in a single declaration;https://developer.mozilla.org/en-US/docs/Web/CSS/outline;3;Partial/Buggy;Partial/Buggy;Partial/Buggy;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;Yes;Yes
+overflow;overflow;The overflow property specifies whether to clip content, render scrollbars or just display content when it overflows its block level container.;https://developer.mozilla.org/en-US/docs/Web/CSS/overflow;2;Partial/Buggy;Partial/Buggy;Partial/Buggy;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Partial/Buggy;Partial/Buggy;Partial/Buggy;Partial/Buggy;Yes;Yes
+position;position;The position CSS property chooses alternative rules for positioning elements;https://developer.mozilla.org/en-US/docs/Web/CSS/position;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;No;Yes;Yes;Yes;Yes
+resize;resize;The resize CSS property lets you control the resizability of an element.;https://developer.mozilla.org/en-US/docs/Web/CSS/resize;3;Partial/Buggy;Partial/Buggy;No;Yes;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;;No;No
+right;right;The right CSS property specifies part of the position of positioned elements.;https://developer.mozilla.org/en-US/docs/Web/CSS/right;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+top;top;The top CSS property specifies part of the position of positioned elements.;https://developer.mozilla.org/en-US/docs/Web/CSS/top;2;Yes;No;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+visibility;visibility;The visibility property can be used to hide an element while leaving the space where it would have been.;https://developer.mozilla.org/en-US/docs/Web/CSS/visibility;2;Yes;Yes;No;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+z-index;z-index;The z-index property specifies the z-order of an element and its descendants. ;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+list-style-image;list-style-image;The list-style-image property specifies an image to be used as the list item marker.;https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image;2;No;Yes;No;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes
+list-style-position;list-style-position;The list-style-position property specifies the position of the marker box in the principal block box.;https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position;2;No;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Partial/Buggy
+list-style-type;list-style-type;The list-style-type property specifies the appearance of a list item element;https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+border-collapse;border-collapse;The border-collapse CSS property determines whether a table's borders are separated or collapsed.;https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+border-spacing;border-spacing;The border-spacing CSS property specifies the distance between the borders of adjacent table cells;https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing;2;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
+caption-side;caption-side;The caption-side CSS property positions the content of a table's <caption> on the specified side.;https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side;2;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Partial/Buggy;Yes;Yes;Partial/Buggy;Yes;Yes;Yes
+empty-cells;empty-cells;The empty-cells CSS property specifies how user agents should render borders and backgrounds around cells that have no visible content.;https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells;2;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+table-layout;table-layout;The table-layout CSS property defines the algorithm to be used to layout the table cells, rows, and columns.;https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout;2;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+canvas;<canvas>;The HTML <canvas> Element can be used to draw graphics via scripting (usually JavaScript);https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas;;No;No;No;No;No;No;No;No;No;No;No;;Yes;No;Yes;No;No;No;No;No;No;Yes
+audio;<audio>;The HTML <audio> element is used to embed sound content in documents.;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio;;Partial/Buggy;No;No;No;No;No;No;No;No;No;Yes;;Yes;No;Yes;No;No;No;No;Yes;No;Yes
+video;<video>;The HTML <video> element is used to embed video content.;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video;;Partial/Buggy;No;No;No;No;No;No;No;No;No;Yes;;Yes;No;Yes;No;No;No;No;Yes;No;Yes

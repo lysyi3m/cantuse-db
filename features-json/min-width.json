@@ -1,8 +1,7 @@
 {
-  "file": "min-width",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "min-width",
+  "description": "The min-width property is used to set the minimum width of a given element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-width",
   "css_version": "2",
   "links": [
     {

@@ -1,5 +1,4 @@
 {
-  "file": "selector-sibling",
   "title": "CSS general sibling selector",
   "description": "The ~ combinator separates two selectors and matches the second element only if it is preceded by the first, and both share a common parent.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_selectors",

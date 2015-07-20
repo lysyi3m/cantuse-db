@@ -1,8 +1,7 @@
 {
-  "file": "opacity",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "opacity",
+  "description": "The opacity CSS property specifies the transparency of an element, that is, the degree to which the background behind the element is overlaid.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/opacity",
   "css_version": "2",
   "links": [
     {

@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-active",
   "title": "CSS pseudo-class :active",
   "description": "The :active CSS pseudo-class matches when an element is being activated by the user. It allows the page to give a feedback that the activation has been detected by the browser",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:active",

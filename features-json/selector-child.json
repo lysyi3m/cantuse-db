@@ -1,5 +1,4 @@
 {
-  "file": "selector-child",
   "title": "CSS child selector",
   "description": "The > combinator separates two selectors and matches only those elements matched by the second selector that are direct children of elements matched by the first.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors",

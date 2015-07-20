@@ -1,8 +1,7 @@
 {
-  "file": "top",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "top",
+  "description": "The top CSS property specifies part of the position of positioned elements.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/top",
   "css_version": "2",
   "links": [
     {

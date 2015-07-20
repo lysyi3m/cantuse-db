@@ -1,8 +1,7 @@
 {
-  "file": "margin",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "margin",
+  "description": "The margin CSS property sets the margin for all four sides.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin",
   "css_version": "2",
   "links": [
     {

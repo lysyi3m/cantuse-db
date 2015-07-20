@@ -1,8 +1,7 @@
 {
-  "file": "visibility",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "visibility",
+  "description": "The visibility property can be used to hide an element while leaving the space where it would have been.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/visibility",
   "css_version": "2",
   "links": [
     {

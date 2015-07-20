@@ -1,8 +1,7 @@
 {
-  "file": "bottom",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "bottom",
+  "description": "The bottom CSS property participates in specifying the position of positioned elements.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/bottom",
   "css_version": "2",
   "links": [
     {

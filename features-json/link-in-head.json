@@ -1,5 +1,4 @@
 {
-  "file": "link-in-head",
   "title": "<link> element in <head>",
   "description": "The HTML Link Element (<link>) specifies relationships between the current document and an external resource",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link",

@@ -1,8 +1,7 @@
 {
-  "file": "border",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "border",
+  "description": "The border CSS property is a shorthand property for setting the individual border property values in a single place in the style sheet. border can be used to set the values for one or more of: border-width, border-style, border-color.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border",
   "css_version": "2",
   "links": [
     {

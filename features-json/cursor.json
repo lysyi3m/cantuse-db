@@ -1,8 +1,7 @@
 {
-  "file": "cursor",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "cursor",
+  "description": "The cursor CSS property specifies the mouse cursor displayed when the mouse pointer is over an element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
   "css_version": "2",
   "links": [
     {

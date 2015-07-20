@@ -1,8 +1,7 @@
 {
-  "file": "display",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "display",
+  "description": "The display CSS property specifies the type of rendering box used for an element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
   "css_version": "2",
   "links": [
     {

@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-link",
   "title": "CSS pseudo-class :link",
   "description": "The :link CSS pseudo-class lets you select links inside elements. This will select any link which has not yet been visited, even those already styled using selector with other link-related pseudo-classes like :hover, :active or :visited. ",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:link",

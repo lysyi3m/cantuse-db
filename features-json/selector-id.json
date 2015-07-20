@@ -1,5 +1,4 @@
 {
-  "file": "selector-id",
   "title": "CSS id selector",
   "description": "In an HTML document, CSS ID selectors match an element based on the contents of that element's ID attribute, which must match exactly the value given in the selector.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors",

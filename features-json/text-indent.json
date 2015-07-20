@@ -1,5 +1,4 @@
 {
-  "file": "text-indent",
   "title": "text-indent",
   "description": "The text-indent property specifies how much horizontal space should be left before the beginning of the first line of the text content of an element.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent",

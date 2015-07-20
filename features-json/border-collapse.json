@@ -1,8 +1,7 @@
 {
-  "file": "border-collapse",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "border-collapse",
+  "description": "The border-collapse CSS property determines whether a table's borders are separated or collapsed.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse",
   "css_version": "2",
   "links": [
     {

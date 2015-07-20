@@ -1,5 +1,4 @@
 {
-  "file": "font-face",
   "title": "@font-face",
   "description": "The @font-face CSS at-rule allows authors to specify online fonts to display text on their web pages",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%40font-face",

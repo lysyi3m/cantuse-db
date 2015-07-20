@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-nth-of-type",
   "title": "CSS pseudo-class :nth-of-type",
   "description": "The :nth-of-type CSS pseudo-class matches an element that has an+b-1 siblings with the same element name before it in the document tree, for a given positive or zero value for n, and has a parent element. ",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type",

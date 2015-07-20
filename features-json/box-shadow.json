@@ -1,8 +1,7 @@
 {
-  "file": "box-shadow",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "box-shadow",
+  "description": "The box-shadow property describes one or more shadow effects as a comma-separated list",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow",
   "css_version": "3",
   "links": [
     {

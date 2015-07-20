@@ -1,8 +1,7 @@
 {
-  "file": "video",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "<video>",
+  "description": "The HTML <video> element is used to embed video content.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video",
   "css_version": "",
   "links": [
     {

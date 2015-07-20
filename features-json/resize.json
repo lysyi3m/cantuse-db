@@ -1,8 +1,7 @@
 {
-  "file": "resize",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "resize",
+  "description": "The resize CSS property lets you control the resizability of an element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/resize",
   "css_version": "3",
   "links": [
     {

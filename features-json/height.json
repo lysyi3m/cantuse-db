@@ -1,8 +1,7 @@
 {
-  "file": "height",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "height",
+  "description": "The height CSS property specifies the height of the content area of an element. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/height",
   "css_version": "2",
   "links": [
     {

@@ -19,62 +19,52 @@ var readCSV = function(file) {
 
 // Format data
 var formatData = function(data) {
-  var formatted = [];
-  var rows = babyParse.parse(data).data;
-  for (var i in rows) {
+  var features = babyParse.parse(data).data;
+  for (var i in features) {
     var feature = {
-      "file": rows[i][0],
-      "title": rows[i][1],
-      "description": rows[i][2],
-      "spec": rows[i][3],
-      "css_version": rows[i][4],
+      "title": features[i][1],
+      "description": features[i][2],
+      "spec": features[i][3],
+      "css_version": features[i][4],
       "links": [{"url": "","title": ""}],
       "categories": [],
       "stats": {
         "web": {
-          "Outlook.com": rows[i][5],
-          "Yahoo! Mail": rows[i][6],
-          "Gmail": rows[i][7],
-          "AOL Mail": rows[i][8]
+          "Outlook.com": features[i][5],
+          "Yahoo! Mail": features[i][6],
+          "Gmail": features[i][7],
+          "AOL Mail": features[i][8]
         },
         "pc": {
-          "Outlook '07 / '10 / ‘13": rows[i][9],
-          "Outlook '03 / Express / Mail": rows[i][10],
-          "Windows Live Mail 2011": rows[i][11],
-          "Notes 6 / 7": rows[i][12],
-          "Lotus Notes 8.5": rows[i][13],
-          "AOL Desktop 10": rows[i][14]
+          "Outlook '07 / '10 / ‘13": features[i][9],
+          "Outlook '03 / Express / Mail": features[i][10],
+          "Windows Live Mail 2011": features[i][11],
+          "Notes 6 / 7": features[i][12],
+          "Lotus Notes 8.5": features[i][13],
+          "AOL Desktop 10": features[i][14]
         },
         "mac": {
-          "Apple Mail 6.5": rows[i][15],
-          "Outlook 2011": rows[i][16],
-          "Postbox": rows[i][17],
-          "Thunderbird 17": rows[i][18]
+          "Apple Mail 6.5": features[i][15],
+          "Outlook 2011": features[i][16],
+          "Postbox": features[i][17],
+          "Thunderbird 17": features[i][18]
         },
         "mobile": {
-          "iPhone / iPad (iOS 7)": rows[i][19],
-          "Blackberry 6": rows[i][20],
-          "Android 4 (Default)": rows[i][21],
-          "Gmail": rows[i][22],
-          "Windows Mobile 7.5": rows[i][23],
-          "Samsung Galaxy S4 (Default)": rows[i][24],
-          "Mailbox (iOS 7)": rows[i][25],
-          "Sparrow (iOS 7)": rows[i][26]
+          "iPhone / iPad (iOS 7)": features[i][19],
+          "Blackberry 6": features[i][20],
+          "Android 4 (Default)": features[i][21],
+          "Gmail": features[i][22],
+          "Windows Mobile 7.5": features[i][23],
+          "Samsung Galaxy S4 (Default)": features[i][24],
+          "Mailbox (iOS 7)": features[i][25],
+          "Sparrow (iOS 7)": features[i][26]
         }
       },
       "notes": [{"note": ""}],
       "bugs": [{"description": ""}]
     }
-    formatted.push(feature);
-  }
-  return formatted;
-};
-
-// Write files
-var writeJSON = function(features) {
-  for (var i in features) {
-    var fileName = path.join(__dirname, './features-json/' + features[i].file + '.json')
-    fs.writeFile(fileName, JSON.stringify(features[i]), 'utf8', function(error) {
+    var fileName = path.join(__dirname, './features-json/' + features[i][0] + '.json')
+    fs.writeFile(fileName, JSON.stringify(feature), 'utf8', function(error) {
       if (error) {
         return console.error(error);
       }
@@ -84,12 +74,7 @@ var writeJSON = function(features) {
 
 // Do magick
 if (argv.file) {
-  readCSV(argv.file)
-  .then(function(data){
-    var features = formatData(data);
-    writeJSON(features);
-  })
-  .catch(console.error);
+  readCSV(argv.file).then(function(data){ formatData(data) }).catch(console.error);
 } else {
   console.log('Error! No file to parse');
 }

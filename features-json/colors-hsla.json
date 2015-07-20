@@ -1,8 +1,7 @@
 {
-  "file": "colors-hsla",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "HSLA color values",
+  "description": "Just as the ‘rgb()’ functional notation has the ‘rgba()’ alpha counterpart, the ‘hsl()’ functional notation has the ‘hsla()’ alpha counterpart.",
+  "spec": "http://www.w3.org/TR/css3-color/#hsla-color",
   "css_version": "3",
   "links": [
     {

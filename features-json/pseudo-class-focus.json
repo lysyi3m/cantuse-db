@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-focus",
   "title": "CSS pseudo-class :focus",
   "description": "The :focus CSS pseudo-class is applied when a element has received focus, either from the user selecting it with the use of a keyboard or by activating with the mouse (e.g. a form input).",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus",

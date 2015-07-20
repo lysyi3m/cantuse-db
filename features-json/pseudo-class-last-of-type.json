@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-last-of-type",
   "title": "CSS pseudo-class :last-of-type",
   "description": "The :last-of-type CSS pseudo-class represents the last sibling with the given element name in the list of children of its parent element.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:last-of-type",

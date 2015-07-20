@@ -1,5 +1,4 @@
 {
-  "file": "selector-attribute-match",
   "title": "CSS attribute selector [attr=value]",
   "description": "Represents an element with an attribute name of attr and whose value is exactly \"value\".",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",

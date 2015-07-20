@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-element-before",
   "title": "CSS pseudo-element ::before (:before)",
   "description": "::before creates a pseudo-element that is the first child of the element matched. It is often used to add cosmetic content to an element by using the content property. ",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/::before",

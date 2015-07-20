@@ -1,5 +1,4 @@
 {
-  "file": "selector-universal",
   "title": "CSS universal selector (asterisk)",
   "description": "An Asterisk (*) is the universal selector for CSS. It matches a single element of any type.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors",

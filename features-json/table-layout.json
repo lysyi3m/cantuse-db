@@ -1,8 +1,7 @@
 {
-  "file": "table-layout",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "table-layout",
+  "description": "The table-layout CSS property defines the algorithm to be used to layout the table cells, rows, and columns.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout",
   "css_version": "2",
   "links": [
     {

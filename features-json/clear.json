@@ -1,8 +1,7 @@
 {
-  "file": "clear",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "clear",
+  "description": "The clear CSS property specifies whether an element can be next to floating elements that precede it or must be moved down (cleared) below them.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear",
   "css_version": "2",
   "links": [
     {

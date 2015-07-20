@@ -1,8 +1,7 @@
 {
-  "file": "audio",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "<audio>",
+  "description": "The HTML <audio> element is used to embed sound content in documents.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio",
   "css_version": "",
   "links": [
     {

@@ -1,8 +1,7 @@
 {
-  "file": "empty-cells",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "empty-cells",
+  "description": "The empty-cells CSS property specifies how user agents should render borders and backgrounds around cells that have no visible content.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells",
   "css_version": "2",
   "links": [
     {

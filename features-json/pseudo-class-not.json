@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-not",
   "title": "CSS pseudo-class :not()",
   "description": "The negation CSS pseudo-class, :not(X), is a functional notation taking a simple selector X as an argument. It matches an element that is not represented by the argument. X must not contain another negation selector.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:not",

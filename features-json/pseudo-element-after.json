@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-element-after",
   "title": "CSS pseudo-class ::after (:after)",
   "description": "The CSS ::after pseudo-element matches a virtual last child of the selected element. It is typically used to add cosmetic content to an element by using the content CSS property.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/::after",

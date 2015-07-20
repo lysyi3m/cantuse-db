@@ -1,5 +1,4 @@
 {
-  "file": "line-height",
   "title": "line-height",
   "description": "On block level elements, the line-height property specifies the minimum height of line boxes within the element.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",

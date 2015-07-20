@@ -1,5 +1,4 @@
 {
-  "file": "background-color",
   "title": "background-color",
   "description": "The background-color CSS property sets the background color of an element, either through a color value or the keyword transparent.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-color",

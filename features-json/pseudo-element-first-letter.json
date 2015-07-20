@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-element-first-letter",
   "title": "CSS pseudo-element ::first-letter (:first-letter)",
   "description": "The ::first-letter CSS pseudo-element selects the first letter of the first line of a block, if it is not preceded by any other content (such as images or inline tables) on its line.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%3A%3Afirst-letter",

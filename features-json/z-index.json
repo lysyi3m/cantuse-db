@@ -1,8 +1,7 @@
 {
-  "file": "z-index",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "z-index",
+  "description": "The z-index property specifies the z-order of an element and its descendants. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/z-index",
   "css_version": "2",
   "links": [
     {

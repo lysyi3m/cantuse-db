@@ -1,5 +1,4 @@
 {
-  "file": "pseudo-class-target",
   "title": "CSS pseudo-class :target",
   "description": "The :target pseudo-class represents the unique element, if any, with an id matching the fragment identifier of the URI of the document..",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:target",

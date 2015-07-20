@@ -1,8 +1,7 @@
 {
-  "file": "canvas",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "<canvas>",
+  "description": "The HTML <canvas> Element can be used to draw graphics via scripting (usually JavaScript)",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas",
   "css_version": "",
   "links": [
     {

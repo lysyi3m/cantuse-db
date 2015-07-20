@@ -1,5 +1,4 @@
 {
-  "file": "style-in-head",
   "title": "<style> element in <head>",
   "description": "The HTML Style Element (<style>) contains style information for a document, or part of a document.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style",

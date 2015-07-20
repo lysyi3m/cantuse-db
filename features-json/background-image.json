@@ -1,5 +1,4 @@
 {
-  "file": "background-image",
   "title": "background-image",
   "description": "The CSS background-image property sets one or several background images for an element.",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-image",

@@ -1,8 +1,7 @@
 {
-  "file": "max-width",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "max-width",
+  "description": "The max-width property is used to set the maximum width of a given element. ",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-width",
   "css_version": "2",
   "links": [
     {

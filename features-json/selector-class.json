@@ -1,5 +1,4 @@
 {
-  "file": "selector-class",
   "title": "CSS class selector",
   "description": "In an HTML document, CSS class selectors match an element based on the contents of the element's class attribute",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",

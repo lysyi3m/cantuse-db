@@ -1,8 +1,7 @@
 {
-  "file": "colors-rgba",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "RGBA color values",
+  "description": "The RGB color model is extended in this specification to include “alpha” to allow specification of the opacity of a color.",
+  "spec": "http://www.w3.org/TR/css3-color/#rgba-color",
   "css_version": "3",
   "links": [
     {

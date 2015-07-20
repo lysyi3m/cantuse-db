@@ -1,8 +1,7 @@
 {
-  "file": "list-style-type",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "list-style-type",
+  "description": "The list-style-type property specifies the appearance of a list item element",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type",
   "css_version": "2",
   "links": [
     {

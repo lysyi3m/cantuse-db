@@ -1,8 +1,7 @@
 {
-  "file": "padding",
-  "title": "",
-  "description": "",
-  "spec": "",
+  "title": "padding",
+  "description": "The padding property sets the padding space on all sides of an element.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding",
   "css_version": "2",
   "links": [
     {
