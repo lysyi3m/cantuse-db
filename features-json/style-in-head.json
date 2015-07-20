@@ -1,46 +1,45 @@
 {
-  "title": "<style> element in <head>",
-  "description": "The <style> tag is used to define style information for an HTML document. Inside the <style> element you specify how HTML elements should render.",
-  "spec": "http://www.w3schools.com/tags/tag_style.asp",
+  "title": "style-in-head",
+  "description": "",
+  "css": "",
+  "spec": "",
   "links": [
     {
       "url": "",
       "title": ""
     }
   ],
-  "categories": [
-    "HTML",
-    "Markup"
-  ],
+  "categories": [],
   "stats": {
     "web": {
-      "mso_com": "y",
-      "yahoo": "y",
-      "gmail": "n",
-      "aol": "y"
+      "outlook_com": "Yes",
+      "yahoo_mail": "Yes",
+      "gmail": "No",
+      "aol_mail": "Yes"
     },
     "pc": {
-      "mso_07_10_13": "y",
-      "mso_03_ex_mail": "y",
-      "win_live_mail_11": "y",
-      "ln_6_7": "n",
-      "ln_85": "y",
-      "aol_10": "y"
+      "outlook_07_10_13": "Yes",
+      "outlook_03_express_mail": "Yes",
+      "windows_live_mail_11": "Yes",
+      "ln_6_7": "No",
+      "ln_85": "Yes",
+      "aol_10": "Yes"
     },
     "mac": {
-      "apple_mail_65": "y",
-      "postbox": "y",
-      "thunderbird_17": "y"
+      "apple_mail_65": "Yes",
+      "outlook_11": "Yes",
+      "postbox": "Yes",
+      "thunderbird_17": "Yes"
     },
     "mobile": {
-      "ios_7": "y",
-      "blackberry_6": "y",
-      "android_4": "y",
-      "gmail": "n",
-      "wp_75": "y",
+      "ios_7": "Yes",
+      "blackberry_6": "Yes",
+      "android_4": "Yes",
+      "gmail": "No",
+      "wp_75": "Yes",
       "sgs_4": "",
-      "mailbox_ios7": "n",
-      "sparrow_ios7": "y"
+      "mailbox_ios7": "No",
+      "sparrow_ios7": "Yes"
     }
   },
   "notes": [

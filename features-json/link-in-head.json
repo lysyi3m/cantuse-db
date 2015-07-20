@@ -1,43 +1,42 @@
 {
-  "title": "<link> element in <head>",
-  "description": "The <link> tag defines a link between a document and an external resource.",
-  "spec": "http://www.w3schools.com/tags/tag_link.asp",
+  "title": "link-in-head",
+  "description": "",
+  "css": "",
+  "spec": "",
   "links": [
     {
       "url": "",
       "title": ""
     }
   ],
-  "categories": [
-    "HTML",
-    "Markup"
-  ],
+  "categories": [],
   "stats": {
     "web": {
-      "mso_com": "n",
-      "yahoo": "n",
-      "gmail": "n",
-      "aol": "n"
+      "outlook_com": "No",
+      "yahoo_mail": "No",
+      "gmail": "No",
+      "aol_mail": "No"
     },
     "pc": {
-      "mso_07_10_13": "y",
-      "mso_03_ex_mail": "y",
-      "win_live_mail_11": "y",
-      "ln_6_7": "y",
-      "ln_85": "y",
-      "aol_10": "y"
+      "outlook_07_10_13": "Yes",
+      "outlook_03_express_mail": "Yes",
+      "windows_live_mail_11": "Yes",
+      "ln_6_7": "Yes",
+      "ln_85": "Yes",
+      "aol_10": "Yes"
     },
     "mac": {
-      "apple_mail_65": "y",
-      "postbox": "y",
-      "thunderbird_17": "y"
+      "apple_mail_65": "Yes",
+      "outlook_11": "Yes",
+      "postbox": "Yes",
+      "thunderbird_17": "Yes"
     },
     "mobile": {
-      "ios_7": "y",
-      "blackberry_6": "y",
-      "android_4": "y",
-      "gmail": "n",
-      "wp_75": "y",
+      "ios_7": "Yes",
+      "blackberry_6": "Yes",
+      "android_4": "Yes",
+      "gmail": "No",
+      "wp_75": "Yes",
       "sgs_4": "",
       "mailbox_ios7": "",
       "sparrow_ios7": ""

@@ -1,0 +1,55 @@
+{
+  "title": "selector-target",
+  "description": "",
+  "css": "3",
+  "spec": "",
+  "links": [
+    {
+      "url": "",
+      "title": ""
+    }
+  ],
+  "categories": [],
+  "stats": {
+    "web": {
+      "outlook_com": "Yes",
+      "yahoo_mail": "No",
+      "gmail": "No",
+      "aol_mail": "No"
+    },
+    "pc": {
+      "outlook_07_10_13": "No",
+      "outlook_03_express_mail": "No",
+      "windows_live_mail_11": "No",
+      "ln_6_7": "No",
+      "ln_85": "No",
+      "aol_10": "No"
+    },
+    "mac": {
+      "apple_mail_65": "No",
+      "outlook_11": "No",
+      "postbox": "No",
+      "thunderbird_17": "No"
+    },
+    "mobile": {
+      "ios_7": "No",
+      "blackberry_6": "No",
+      "android_4": "No",
+      "gmail": "No",
+      "wp_75": "No",
+      "sgs_4": "",
+      "mailbox_ios7": "No",
+      "sparrow_ios7": "No"
+    }
+  },
+  "notes": [
+    {
+      "note": ""
+    }
+  ],
+  "bugs": [
+    {
+      "description": ""
+    }
+  ]
+}

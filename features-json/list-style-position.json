@@ -1,7 +1,7 @@
 {
-  "title": "link-in-body",
+  "title": "list-style-position",
   "description": "",
-  "css": "",
+  "css": "2",
   "spec": "",
   "links": [
     {
@@ -13,16 +13,16 @@
   "stats": {
     "web": {
       "outlook_com": "No",
-      "yahoo_mail": "No",
-      "gmail": "No",
-      "aol_mail": "No"
+      "yahoo_mail": "Yes",
+      "gmail": "Yes",
+      "aol_mail": "Yes"
     },
     "pc": {
-      "outlook_07_10_13": "Yes",
+      "outlook_07_10_13": "No",
       "outlook_03_express_mail": "Yes",
       "windows_live_mail_11": "Yes",
       "ln_6_7": "No",
-      "ln_85": "Yes",
+      "ln_85": "No",
       "aol_10": "Yes"
     },
     "mac": {
@@ -37,9 +37,9 @@
       "android_4": "Yes",
       "gmail": "No",
       "wp_75": "Yes",
-      "sgs_4": "",
-      "mailbox_ios7": "",
-      "sparrow_ios7": ""
+      "sgs_4": "Yes",
+      "mailbox_ios7": "No",
+      "sparrow_ios7": "Partial/Buggy"
     }
   },
   "notes": [

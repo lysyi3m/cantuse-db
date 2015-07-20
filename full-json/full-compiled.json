@@ -1,44 +1,2243 @@
 [
   {
-    "title": "<link> element in <body>",
-    "description": "The <link> tag defines a link between a document and an external resource.",
-    "spec": "http://www.w3schools.com/tags/tag_link.asp",
+    "title": "audio",
+    "description": "",
+    "css": "",
+    "spec": "",
     "links": [
       {
         "url": "",
         "title": ""
       }
     ],
-    "categories": [
-      "HTML",
-      "Markup"
-    ],
+    "categories": [],
     "stats": {
       "web": {
-        "mso_com": "n",
-        "yahoo": "n",
-        "gmail": "n",
-        "aol": "n"
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
       },
       "pc": {
-        "mso_07_10_13": "y",
-        "mso_03_ex_mail": "y",
-        "win_live_mail_11": "y",
-        "ln_6_7": "n",
-        "ln_85": "y",
-        "aol_10": "y"
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
       },
       "mac": {
-        "apple_mail_65": "y",
-        "postbox": "y",
-        "thunderbird_17": "y"
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "Yes",
+        "thunderbird_17": "No"
       },
       "mobile": {
-        "ios_7": "y",
-        "blackberry_6": "y",
-        "android_4": "y",
-        "gmail": "n",
-        "wp_75": "y",
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background-color",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background-css3",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background-image",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background-position",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background-repeat",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background-size",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Partial/Buggy",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Partial/Buggy",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Partial/Buggy",
+        "android_4": "Partial/Buggy",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "background",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Partial/Buggy",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "border-collapse",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "border-color",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "No",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "border-image",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "No",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": ""
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "border-radius",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "No",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "border-spacing",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "border",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "bottom",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "box-shadow",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "No",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "canvas",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "No",
+        "outlook_11": "",
+        "postbox": "Yes",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "No",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "caption-side",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Partial/Buggy",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Partial/Buggy",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "clear",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Partial/Buggy"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "clip",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "color",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "colors-hsl",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "colors-hsla",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "colors-rgba",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "cursor",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "No",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "No"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "direction",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "display",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "No",
+        "mailbox_ios7": "Partial/Buggy",
+        "sparrow_ios7": "Partial/Buggy"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "empty-cells",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "float",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font-face",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font-family",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font-size",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Partial/Buggy",
+        "blackberry_6": "No",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Partial/Buggy",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font-style",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font-variant",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font-weight",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "font",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "height",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "left",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "letter-spacing",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "line-height",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "link-in-body",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
         "sgs_4": "",
         "mailbox_ios7": "",
         "sparrow_ios7": ""
@@ -56,45 +2255,44 @@
     ]
   },
   {
-    "title": "<link> element in <head>",
-    "description": "The <link> tag defines a link between a document and an external resource.",
-    "spec": "http://www.w3schools.com/tags/tag_link.asp",
+    "title": "link-in-head",
+    "description": "",
+    "css": "",
+    "spec": "",
     "links": [
       {
         "url": "",
         "title": ""
       }
     ],
-    "categories": [
-      "HTML",
-      "Markup"
-    ],
+    "categories": [],
     "stats": {
       "web": {
-        "mso_com": "n",
-        "yahoo": "n",
-        "gmail": "n",
-        "aol": "n"
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
       },
       "pc": {
-        "mso_07_10_13": "y",
-        "mso_03_ex_mail": "y",
-        "win_live_mail_11": "y",
-        "ln_6_7": "y",
-        "ln_85": "y",
-        "aol_10": "y"
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
       },
       "mac": {
-        "apple_mail_65": "y",
-        "postbox": "y",
-        "thunderbird_17": "y"
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
       },
       "mobile": {
-        "ios_7": "y",
-        "blackberry_6": "y",
-        "android_4": "y",
-        "gmail": "n",
-        "wp_75": "y",
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
         "sgs_4": "",
         "mailbox_ios7": "",
         "sparrow_ios7": ""
@@ -112,48 +2310,47 @@
     ]
   },
   {
-    "title": "Media Queries",
-    "description": "Method of applying styles based on media information. Includes things like page and device dimensions",
-    "spec": "http://www.w3.org/TR/css3-mediaqueries/",
+    "title": "list-style-image",
+    "description": "",
+    "css": "2",
+    "spec": "",
     "links": [
       {
         "url": "",
         "title": ""
       }
     ],
-    "categories": [
-      "CSS",
-      "Responsive"
-    ],
+    "categories": [],
     "stats": {
       "web": {
-        "mso_com": "n",
-        "yahoo": "n",
-        "gmail": "n",
-        "aol": "y"
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
       },
       "pc": {
-        "mso_07_10_13": "n",
-        "mso_03_ex_mail": "n",
-        "win_live_mail_11": "n",
-        "ln_6_7": "n",
-        "ln_85": "n",
-        "aol_10": "n"
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
       },
       "mac": {
-        "apple_mail_65": "y",
-        "postbox": "y",
-        "thunderbird_17": "y"
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
       },
       "mobile": {
-        "ios_7": "y",
-        "blackberry_6": "n",
-        "android_4": "y",
-        "gmail": "n",
-        "wp_75": "y",
-        "sgs_4": "y",
-        "mailbox_ios7": "n",
-        "sparrow_ios7": "y"
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
       }
     },
     "notes": [
@@ -168,48 +2365,47 @@
     ]
   },
   {
-    "title": "<style> element in <body>",
-    "description": "The <style> tag is used to define style information for an HTML document. Inside the <style> element you specify how HTML elements should render.",
-    "spec": "http://www.w3schools.com/tags/tag_style.asp",
+    "title": "list-style-position",
+    "description": "",
+    "css": "2",
+    "spec": "",
     "links": [
       {
         "url": "",
         "title": ""
       }
     ],
-    "categories": [
-      "HTML",
-      "Markup"
-    ],
+    "categories": [],
     "stats": {
       "web": {
-        "mso_com": "y",
-        "yahoo": "y",
-        "gmail": "n",
-        "aol": "y"
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
       },
       "pc": {
-        "mso_07_10_13": "y",
-        "mso_03_ex_mail": "y",
-        "win_live_mail_11": "y",
-        "ln_6_7": "n",
-        "ln_85": "y",
-        "aol_10": "y"
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
       },
       "mac": {
-        "apple_mail_65": "y",
-        "postbox": "y",
-        "thunderbird_17": "y"
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
       },
       "mobile": {
-        "ios_7": "y",
-        "blackberry_6": "y",
-        "android_4": "y",
-        "gmail": "n",
-        "wp_75": "y",
-        "sgs_4": "",
-        "mailbox_ios7": "n",
-        "sparrow_ios7": "y"
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Partial/Buggy"
       }
     },
     "notes": [
@@ -224,48 +2420,3622 @@
     ]
   },
   {
-    "title": "<style> element in <head>",
-    "description": "The <style> tag is used to define style information for an HTML document. Inside the <style> element you specify how HTML elements should render.",
-    "spec": "http://www.w3schools.com/tags/tag_style.asp",
+    "title": "list-style-type",
+    "description": "",
+    "css": "2",
+    "spec": "",
     "links": [
       {
         "url": "",
         "title": ""
       }
     ],
-    "categories": [
-      "HTML",
-      "Markup"
-    ],
+    "categories": [],
     "stats": {
       "web": {
-        "mso_com": "y",
-        "yahoo": "y",
-        "gmail": "n",
-        "aol": "y"
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
       },
       "pc": {
-        "mso_07_10_13": "y",
-        "mso_03_ex_mail": "y",
-        "win_live_mail_11": "y",
-        "ln_6_7": "n",
-        "ln_85": "y",
-        "aol_10": "y"
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
       },
       "mac": {
-        "apple_mail_65": "y",
-        "postbox": "y",
-        "thunderbird_17": "y"
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
       },
       "mobile": {
-        "ios_7": "y",
-        "blackberry_6": "y",
-        "android_4": "y",
-        "gmail": "n",
-        "wp_75": "y",
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "margin",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "max-width",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "media-queries",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "min-width",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "opacity",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "outline",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "Partial/Buggy",
+        "gmail": "Partial/Buggy",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Partial/Buggy",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "overflow",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "Partial/Buggy",
+        "gmail": "Partial/Buggy",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Partial/Buggy",
+        "android_4": "Partial/Buggy",
+        "gmail": "Partial/Buggy",
+        "wp_75": "Partial/Buggy",
+        "sgs_4": "Partial/Buggy",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "padding",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Partial/Buggy",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "position",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Partial/Buggy",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "resize",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "Partial/Buggy",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
         "sgs_4": "",
-        "mailbox_ios7": "n",
-        "sparrow_ios7": "y"
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "No"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "right",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-active",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "No",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "No"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-after",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-all",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "Partial/Buggy",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-attribute-begins",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-attribute-contain",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-attribute-ends",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-attribute-match",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-attribute-substring",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-attribute",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-before",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-children-first",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Partial/Buggy",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-children-inside",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-class",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-element-after",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-element-preceded",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-element",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-empty",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-first-child",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-first-letter",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-first-line",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-first-of-type",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-focus",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "No",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "No"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-hover",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "No",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-id",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-last-child",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-last-of-type",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-link",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-not",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-nth-child",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-nth-last-child",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-nth-last-of-type",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-nth-of-type",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-target",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "No",
+        "outlook_11": "No",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "No",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "No"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "selector-visited",
+    "description": "",
+    "css": "1",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "No",
+        "outlook_11": "No",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "style-in-body",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "style-in-head",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "table-layout",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-align",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-decoration",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "Yes",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-fill-color",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-fill-stroke",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "No",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "No",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-indent",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-overflow",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "Partial/Buggy",
+        "gmail": "Partial/Buggy",
+        "aol_mail": "Partial/Buggy"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-shadow",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "text-transform",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "top",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "vertical-align",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "video",
+    "description": "",
+    "css": "",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Partial/Buggy",
+        "yahoo_mail": "No",
+        "gmail": "No",
+        "aol_mail": "No"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "No",
+        "windows_live_mail_11": "No",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "",
+        "postbox": "Yes",
+        "thunderbird_17": "No"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "No",
+        "android_4": "No",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "No",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "visibility",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "white-space",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "No"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "width",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Partial/Buggy",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Partial/Buggy"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "word-spacing",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Yes",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "word-wrap",
+    "description": "",
+    "css": "3",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "No",
+        "aol_mail": "Partial/Buggy"
+      },
+      "pc": {
+        "outlook_07_10_13": "No",
+        "outlook_03_express_mail": "Partial/Buggy",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "Partial/Buggy",
+        "aol_10": "Partial/Buggy"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "No",
+        "wp_75": "No",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Partial/Buggy",
+        "sparrow_ios7": ""
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "z-index",
+    "description": "",
+    "css": "2",
+    "spec": "",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "outlook_com": "Yes",
+        "yahoo_mail": "Yes",
+        "gmail": "Yes",
+        "aol_mail": "Yes"
+      },
+      "pc": {
+        "outlook_07_10_13": "Yes",
+        "outlook_03_express_mail": "Yes",
+        "windows_live_mail_11": "Yes",
+        "ln_6_7": "No",
+        "ln_85": "No",
+        "aol_10": "Yes"
+      },
+      "mac": {
+        "apple_mail_65": "Yes",
+        "outlook_11": "Yes",
+        "postbox": "Yes",
+        "thunderbird_17": "Yes"
+      },
+      "mobile": {
+        "ios_7": "Yes",
+        "blackberry_6": "Yes",
+        "android_4": "Yes",
+        "gmail": "Yes",
+        "wp_75": "Yes",
+        "sgs_4": "Yes",
+        "mailbox_ios7": "Yes",
+        "sparrow_ios7": "Yes"
       }
     },
     "notes": [
