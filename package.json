@@ -1,7 +1,7 @@
 {
-  "name": "cantuse-db",
-  "version": "0.0.1",
-  "description": "Raw mail client features support data based on Campaignmonitor's research",
+  "name": "angrybarry-db",
+  "version": "0.1.0",
+  "description": "Raw mail client features support data",
   "author": {
     "name": "Emil Kashkevich",
     "email": "emil.kashkevich@gmail.com"
