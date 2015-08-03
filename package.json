@@ -2,7 +2,10 @@
   "name": "cantuse-db",
   "version": "0.0.1",
   "description": "Raw mail client features support data based on Campaignmonitor's research",
-  "author": "Emil Kashkevich <emil.kashkevich@gmail.com>",
+  "author": {
+    "name": "Emil Kashkevich",
+    "email": "emil.kashkevich@gmail.com"
+  },
   "devDependencies": {
     "babyparse": "^0.4.3",
     "gulp": "^3.9.0",
@@ -14,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lysyi3m/cantuse-db.git"
+    "url": "https://github.com/lysyi3m/angrybarry-db.git"
   },
   "license": "MIT"
 }
