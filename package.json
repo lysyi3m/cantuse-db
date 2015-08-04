@@ -1,6 +1,6 @@
 {
   "name": "angrybarry-db",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Raw mail client features support data",
   "author": {
     "name": "Emil Kashkevich",
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "gulp check"
+  },
+  "engines": {
+    "node": "0.12.7",
+    "npm": "2.13.3"
   },
   "devDependencies": {
     "babyparse": "^0.4.3",
