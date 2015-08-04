@@ -63,7 +63,7 @@ var formatData = function(data) {
       "notes": [{"note": ""}],
       "bugs": [{"description": ""}]
     }
-    var fileName = path.join(__dirname, './features-json/' + features[i][0] + '.json')
+    var fileName = path.join(__dirname, './features/' + features[i][0] + '.json')
     fs.writeFile(fileName, JSON.stringify(feature), 'utf8', function(error) {
       if (error) {
         return console.error(error);
