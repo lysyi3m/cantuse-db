@@ -1,0 +1,11 @@
+language: node_js
+deploy:
+  provider: npm
+  email: emil.kashkevich@gmail.com
+  api_key:
+    secure: Luzrbk6Tr4jO4316SrVk2L2M07T7aaZ9anDiyvqP8Unktl+pqlqLkF42P00Oi17KW2zLHsc30Xj2aAfh550v5pxWbP9IuVp9u/g328BrP0Bc5fLnMz+oQKOECnX88ihBTo6DxVpU+A7Lg4xnfExLQvMFkz5f2XSLnfTDjHN2WXlTNtONRAvclhIGpgBoQGLydoRg72GSIXjI3dNN/04T3Gc1dHW4Z8akxqWhXb5ezgWRxS+Crav5Hl6d9S1iQBBlyMJMnVK6U01afR+E0eFbJf/o0NGUNXTM9P0ToqE7rJOPU07A8SrDjnSpF/s+vpUEkDiGj3LmFijhSSYECtYgLUm8AZ/pdh6ywSdXMtrAIwggQ9pW/cYff+URObIT7c2VPMXQgvfymKznE74mD63EMTT5pzt9izTYSLMcq+4kHDypoT3KZ+MRavlRGprJOc/4DAf4cS1NxgHE6q/qVQbiwAg0rZQXt0h/OMQmEDAGPo/qFTePPODXPZ+JTzNv1hbX58MfeBtN2kWBiCXn1sLWMBeettijo57OqXa7F6ElFs4+0IzJdok8y9umZwzAINzzvJhDvqmV7PLuqqWzF1Fnl6kC3RjrZpJUl50qRIGrbZD1LT2VCYm3hlr4JoXCUdSzS0jTVt0/nwiO4PcZyU5miTpmSRh3zOgLI/fQ3QEGMCw=
+  on:
+    tags: true
+    repo: lysyi3m/angrybarry-db
+    all_branches: true
+  skip_cleanup: true
