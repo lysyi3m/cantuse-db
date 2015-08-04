@@ -1,9 +1,8 @@
-[
-  {
-    "file": "audio",
-    "title": "",
-    "description": "",
-    "spec": "",
+{
+  "audio": {
+    "title": "<audio>",
+    "description": "The HTML <audio> element is used to embed sound content in documents.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio",
     "css_version": "",
     "links": [
       {
@@ -55,8 +54,7 @@
       }
     ]
   },
-  {
-    "file": "background-color",
+  "background-color": {
     "title": "background-color",
     "description": "The background-color CSS property sets the background color of an element, either through a color value or the keyword transparent.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-color",
@@ -111,8 +109,7 @@
       }
     ]
   },
-  {
-    "file": "background-css3",
+  "background-css3": {
     "title": "",
     "description": "",
     "spec": "",
@@ -167,8 +164,7 @@
       }
     ]
   },
-  {
-    "file": "background-image",
+  "background-image": {
     "title": "background-image",
     "description": "The CSS background-image property sets one or several background images for an element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-image",
@@ -223,8 +219,7 @@
       }
     ]
   },
-  {
-    "file": "background-position",
+  "background-position": {
     "title": "background-position",
     "description": "The background-position CSS property sets the initial position, relative to the background position layer defined by background-origin for each defined background image.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position",
@@ -279,8 +274,7 @@
       }
     ]
   },
-  {
-    "file": "background-repeat",
+  "background-repeat": {
     "title": "background-repeat",
     "description": "The background-repeat CSS property defines how background images are repeated.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat",
@@ -335,8 +329,7 @@
       }
     ]
   },
-  {
-    "file": "background-size",
+  "background-size": {
     "title": "background-size",
     "description": "The background-size CSS property specifies the size of the background images. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-size",
@@ -391,8 +384,7 @@
       }
     ]
   },
-  {
-    "file": "background",
+  "background": {
     "title": "",
     "description": "",
     "spec": "",
@@ -447,11 +439,10 @@
       }
     ]
   },
-  {
-    "file": "border-collapse",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "border-collapse": {
+    "title": "border-collapse",
+    "description": "The border-collapse CSS property determines whether a table's borders are separated or collapsed.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse",
     "css_version": "2",
     "links": [
       {
@@ -503,11 +494,10 @@
       }
     ]
   },
-  {
-    "file": "border-color",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "border-color": {
+    "title": "border-color",
+    "description": "The border-color CSS property is a shorthand for setting the color of the four sides of an element's border",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-color",
     "css_version": "3",
     "links": [
       {
@@ -559,11 +549,10 @@
       }
     ]
   },
-  {
-    "file": "border-image",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "border-image": {
+    "title": "border-image",
+    "description": "The border-image CSS property allows drawing an image on the borders of elements. ",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-image",
     "css_version": "3",
     "links": [
       {
@@ -615,11 +604,10 @@
       }
     ]
   },
-  {
-    "file": "border-radius",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "border-radius": {
+    "title": "border-radius",
+    "description": "The border-radius CSS property allows Web authors to define how rounded border corners are.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
     "css_version": "3",
     "links": [
       {
@@ -671,11 +659,10 @@
       }
     ]
   },
-  {
-    "file": "border-spacing",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "border-spacing": {
+    "title": "border-spacing",
+    "description": "The border-spacing CSS property specifies the distance between the borders of adjacent table cells",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing",
     "css_version": "2",
     "links": [
       {
@@ -727,11 +714,10 @@
       }
     ]
   },
-  {
-    "file": "border",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "border": {
+    "title": "border",
+    "description": "The border CSS property is a shorthand property for setting the individual border property values in a single place in the style sheet. border can be used to set the values for one or more of: border-width, border-style, border-color.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/border",
     "css_version": "2",
     "links": [
       {
@@ -783,11 +769,10 @@
       }
     ]
   },
-  {
-    "file": "bottom",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "bottom": {
+    "title": "bottom",
+    "description": "The bottom CSS property participates in specifying the position of positioned elements.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/bottom",
     "css_version": "2",
     "links": [
       {
@@ -839,11 +824,10 @@
       }
     ]
   },
-  {
-    "file": "box-shadow",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "box-shadow": {
+    "title": "box-shadow",
+    "description": "The box-shadow property describes one or more shadow effects as a comma-separated list",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow",
     "css_version": "3",
     "links": [
       {
@@ -895,11 +879,10 @@
       }
     ]
   },
-  {
-    "file": "canvas",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "canvas": {
+    "title": "<canvas>",
+    "description": "The HTML <canvas> Element can be used to draw graphics via scripting (usually JavaScript)",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas",
     "css_version": "",
     "links": [
       {
@@ -951,11 +934,10 @@
       }
     ]
   },
-  {
-    "file": "caption-side",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "caption-side": {
+    "title": "caption-side",
+    "description": "The caption-side CSS property positions the content of a table's <caption> on the specified side.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side",
     "css_version": "2",
     "links": [
       {
@@ -1007,11 +989,10 @@
       }
     ]
   },
-  {
-    "file": "clear",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "clear": {
+    "title": "clear",
+    "description": "The clear CSS property specifies whether an element can be next to floating elements that precede it or must be moved down (cleared) below them.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear",
     "css_version": "2",
     "links": [
       {
@@ -1063,11 +1044,10 @@
       }
     ]
   },
-  {
-    "file": "clip",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "clip": {
+    "title": "clip",
+    "description": "The clip CSS property defines what portion of an element is visible.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/clip",
     "css_version": "2",
     "links": [
       {
@@ -1119,8 +1099,7 @@
       }
     ]
   },
-  {
-    "file": "color",
+  "color": {
     "title": "color",
     "description": "The color property sets the foreground color of an element's text content, and its decorations. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/color",
@@ -1175,11 +1154,10 @@
       }
     ]
   },
-  {
-    "file": "colors-hsl",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "colors-hsl": {
+    "title": "HSL color values",
+    "description": "HSL colors are encoding as a triple (hue, saturation, lightness).",
+    "spec": "http://www.w3.org/TR/css3-color/#hsl-color",
     "css_version": "3",
     "links": [
       {
@@ -1231,11 +1209,10 @@
       }
     ]
   },
-  {
-    "file": "colors-hsla",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "colors-hsla": {
+    "title": "HSLA color values",
+    "description": "Just as the ‘rgb()’ functional notation has the ‘rgba()’ alpha counterpart, the ‘hsl()’ functional notation has the ‘hsla()’ alpha counterpart.",
+    "spec": "http://www.w3.org/TR/css3-color/#hsla-color",
     "css_version": "3",
     "links": [
       {
@@ -1287,11 +1264,10 @@
       }
     ]
   },
-  {
-    "file": "colors-rgba",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "colors-rgba": {
+    "title": "RGBA color values",
+    "description": "The RGB color model is extended in this specification to include “alpha” to allow specification of the opacity of a color.",
+    "spec": "http://www.w3.org/TR/css3-color/#rgba-color",
     "css_version": "3",
     "links": [
       {
@@ -1343,11 +1319,10 @@
       }
     ]
   },
-  {
-    "file": "cursor",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "cursor": {
+    "title": "cursor",
+    "description": "The cursor CSS property specifies the mouse cursor displayed when the mouse pointer is over an element.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
     "css_version": "2",
     "links": [
       {
@@ -1399,8 +1374,7 @@
       }
     ]
   },
-  {
-    "file": "direction",
+  "direction": {
     "title": "direction",
     "description": "Set the direction CSS property to match the direction of the text: rtl for languages written from right-to-left (like Hebrew or Arabic) text and ltr for other scripts.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/direction",
@@ -1455,11 +1429,10 @@
       }
     ]
   },
-  {
-    "file": "display",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "display": {
+    "title": "display",
+    "description": "The display CSS property specifies the type of rendering box used for an element.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
     "css_version": "2",
     "links": [
       {
@@ -1511,11 +1484,10 @@
       }
     ]
   },
-  {
-    "file": "empty-cells",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "empty-cells": {
+    "title": "empty-cells",
+    "description": "The empty-cells CSS property specifies how user agents should render borders and backgrounds around cells that have no visible content.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells",
     "css_version": "2",
     "links": [
       {
@@ -1567,11 +1539,10 @@
       }
     ]
   },
-  {
-    "file": "float",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "float": {
+    "title": "float",
+    "description": "The float CSS property specifies that an element should be taken from the normal flow and placed along the left or right side of its container, where text and inline elements will wrap around it.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/float",
     "css_version": "2",
     "links": [
       {
@@ -1623,8 +1594,7 @@
       }
     ]
   },
-  {
-    "file": "font-face",
+  "font-face": {
     "title": "@font-face",
     "description": "The @font-face CSS at-rule allows authors to specify online fonts to display text on their web pages",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%40font-face",
@@ -1679,8 +1649,7 @@
       }
     ]
   },
-  {
-    "file": "font-family",
+  "font-family": {
     "title": "font-family",
     "description": "The font-family CSS property lets you specify a prioritized list of font family names and/or generic family names for the selected element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-family",
@@ -1735,8 +1704,7 @@
       }
     ]
   },
-  {
-    "file": "font-size",
+  "font-size": {
     "title": "font-size",
     "description": "The font-size CSS property specifies the size of the font",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-size",
@@ -1791,8 +1759,7 @@
       }
     ]
   },
-  {
-    "file": "font-style",
+  "font-style": {
     "title": "font-style",
     "description": "The font-style CSS property lets you select italic or oblique faces within a font-family.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-style",
@@ -1847,8 +1814,7 @@
       }
     ]
   },
-  {
-    "file": "font-variant",
+  "font-variant": {
     "title": "font-variant",
     "description": "This property acts as a shorthand for the longhand properties: font-variant-caps, font-variant-numeric, font-variant-alternates, font-variant-ligatures, and font-variant-east-asian.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant",
@@ -1903,8 +1869,7 @@
       }
     ]
   },
-  {
-    "file": "font-weight",
+  "font-weight": {
     "title": "font-weight",
     "description": "The font-weight CSS property specifies the weight or boldness of the font.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight",
@@ -1959,8 +1924,7 @@
       }
     ]
   },
-  {
-    "file": "font",
+  "font": {
     "title": "font",
     "description": "The font CSS property is either a shorthand property for setting font-style, font-variant, font-weight, font-size, line-height and font-family, or a way to set the element's font to a system font, using specific keywords.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font",
@@ -2015,11 +1979,10 @@
       }
     ]
   },
-  {
-    "file": "height",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "height": {
+    "title": "height",
+    "description": "The height CSS property specifies the height of the content area of an element. ",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/height",
     "css_version": "2",
     "links": [
       {
@@ -2071,11 +2034,10 @@
       }
     ]
   },
-  {
-    "file": "left",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "left": {
+    "title": "left",
+    "description": "The left CSS property specifies part of the position of positioned elements.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/left",
     "css_version": "2",
     "links": [
       {
@@ -2127,8 +2089,7 @@
       }
     ]
   },
-  {
-    "file": "letter-spacing",
+  "letter-spacing": {
     "title": "letter-spacing",
     "description": "The letter-spacing CSS property specifies spacing behavior between text characters.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing",
@@ -2183,8 +2144,7 @@
       }
     ]
   },
-  {
-    "file": "line-height",
+  "line-height": {
     "title": "line-height",
     "description": "On block level elements, the line-height property specifies the minimum height of line boxes within the element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",
@@ -2239,8 +2199,7 @@
       }
     ]
   },
-  {
-    "file": "link-in-body",
+  "link-in-body": {
     "title": "<link> element in <body>",
     "description": "The HTML Link Element (<link>) specifies relationships between the current document and an external resource",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link",
@@ -2295,8 +2254,7 @@
       }
     ]
   },
-  {
-    "file": "link-in-head",
+  "link-in-head": {
     "title": "<link> element in <head>",
     "description": "The HTML Link Element (<link>) specifies relationships between the current document and an external resource",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link",
@@ -2351,11 +2309,10 @@
       }
     ]
   },
-  {
-    "file": "list-style-image",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "list-style-image": {
+    "title": "list-style-image",
+    "description": "The list-style-image property specifies an image to be used as the list item marker.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image",
     "css_version": "2",
     "links": [
       {
@@ -2407,11 +2364,10 @@
       }
     ]
   },
-  {
-    "file": "list-style-position",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "list-style-position": {
+    "title": "list-style-position",
+    "description": "The list-style-position property specifies the position of the marker box in the principal block box.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position",
     "css_version": "2",
     "links": [
       {
@@ -2463,11 +2419,10 @@
       }
     ]
   },
-  {
-    "file": "list-style-type",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "list-style-type": {
+    "title": "list-style-type",
+    "description": "The list-style-type property specifies the appearance of a list item element",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type",
     "css_version": "2",
     "links": [
       {
@@ -2519,11 +2474,10 @@
       }
     ]
   },
-  {
-    "file": "margin",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "margin": {
+    "title": "margin",
+    "description": "The margin CSS property sets the margin for all four sides.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin",
     "css_version": "2",
     "links": [
       {
@@ -2575,11 +2529,10 @@
       }
     ]
   },
-  {
-    "file": "max-width",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "max-width": {
+    "title": "max-width",
+    "description": "The max-width property is used to set the maximum width of a given element. ",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/max-width",
     "css_version": "2",
     "links": [
       {
@@ -2631,8 +2584,7 @@
       }
     ]
   },
-  {
-    "file": "media-queries",
+  "media-queries": {
     "title": "@media",
     "description": "The @media rule is used to define different style rules for different media types/devices.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%40media",
@@ -2687,11 +2639,10 @@
       }
     ]
   },
-  {
-    "file": "min-width",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "min-width": {
+    "title": "min-width",
+    "description": "The min-width property is used to set the minimum width of a given element.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/min-width",
     "css_version": "2",
     "links": [
       {
@@ -2743,11 +2694,65 @@
       }
     ]
   },
-  {
-    "file": "opacity",
-    "title": "",
+  "opacity-css3": {
+    "title": "opacity",
     "description": "",
     "spec": "",
+    "css_version": "3",
+    "links": [
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "categories": [],
+    "stats": {
+      "web": {
+        "Outlook.com": "Yes",
+        "Yahoo! Mail": "No",
+        "Gmail": "No",
+        "AOL Mail": "Yes"
+      },
+      "pc": {
+        "Outlook '07 / '10 / ‘13": "No",
+        "Outlook '03 / Express / Mail": "No",
+        "Windows Live Mail 2011": "No",
+        "Notes 6 / 7": "No",
+        "Lotus Notes 8.5": "No",
+        "AOL Desktop 10": "No"
+      },
+      "mac": {
+        "Apple Mail 6.5": "Yes",
+        "Outlook 2011": "Yes",
+        "Postbox": "Yes",
+        "Thunderbird 17": "Yes"
+      },
+      "mobile": {
+        "iPhone / iPad (iOS 7)": "Yes",
+        "Blackberry 6": "Yes",
+        "Android 4 (Default)": "Yes",
+        "Gmail": "No",
+        "Windows Mobile 7.5": "Yes",
+        "Samsung Galaxy S4 (Default)": "Yes",
+        "Mailbox (iOS 7)": "Yes",
+        "Sparrow (iOS 7)": "Yes"
+      }
+    },
+    "notes": [
+      {
+        "note": ""
+      }
+    ],
+    "bugs": [
+      {
+        "description": ""
+      }
+    ]
+  },
+  "opacity": {
+    "title": "opacity",
+    "description": "The opacity CSS property specifies the transparency of an element, that is, the degree to which the background behind the element is overlaid.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/opacity",
     "css_version": "2",
     "links": [
       {
@@ -2799,11 +2804,10 @@
       }
     ]
   },
-  {
-    "file": "outline",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "outline": {
+    "title": "outline",
+    "description": "The CSS outline property is a shorthand property for setting one or more of the individual outline properties outline-style, outline-width and outline-color in a single declaration",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline",
     "css_version": "3",
     "links": [
       {
@@ -2855,11 +2859,10 @@
       }
     ]
   },
-  {
-    "file": "overflow",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "overflow": {
+    "title": "overflow",
+    "description": "The overflow property specifies whether to clip content, render scrollbars or just display content when it overflows its block level container.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/overflow",
     "css_version": "2",
     "links": [
       {
@@ -2911,11 +2914,10 @@
       }
     ]
   },
-  {
-    "file": "padding",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "padding": {
+    "title": "padding",
+    "description": "The padding property sets the padding space on all sides of an element.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding",
     "css_version": "2",
     "links": [
       {
@@ -2967,11 +2969,10 @@
       }
     ]
   },
-  {
-    "file": "position",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "position": {
+    "title": "position",
+    "description": "The position CSS property chooses alternative rules for positioning elements",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
     "css_version": "2",
     "links": [
       {
@@ -3023,8 +3024,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-active",
+  "pseudo-class-active": {
     "title": "CSS pseudo-class :active",
     "description": "The :active CSS pseudo-class matches when an element is being activated by the user. It allows the page to give a feedback that the activation has been detected by the browser",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:active",
@@ -3079,8 +3079,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-empty",
+  "pseudo-class-empty": {
     "title": "CSS pseudo-class :empty",
     "description": "The :empty pseudo-class represents any element that has no children at all. Only element nodes and text (including whitespace) are considered. Comments or processing instructions do not affect whether an element is considered empty or not",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:empty",
@@ -3135,8 +3134,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-first-child",
+  "pseudo-class-first-child": {
     "title": "CSS pseudo-class :first-child",
     "description": "The :first-child CSS pseudo-class represents any element that is the first child element of its parent.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child",
@@ -3191,8 +3189,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-first-of-type",
+  "pseudo-class-first-of-type": {
     "title": "CSS pseudo-class :first-of-type",
     "description": "The :first-of-type CSS pseudo-class represents the first sibling of its type in the list of children of its parent element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type",
@@ -3247,8 +3244,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-focus",
+  "pseudo-class-focus": {
     "title": "CSS pseudo-class :focus",
     "description": "The :focus CSS pseudo-class is applied when a element has received focus, either from the user selecting it with the use of a keyboard or by activating with the mouse (e.g. a form input).",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus",
@@ -3303,8 +3299,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-hover",
+  "pseudo-class-hover": {
     "title": "CSS pseudo-class :hover",
     "description": "The :hover CSS pseudo-class matches when the user designates an element with a pointing device, but does not necessarily activate it.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
@@ -3359,8 +3354,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-last-child",
+  "pseudo-class-last-child": {
     "title": "CSS pseudo-class :last-child",
     "description": "The :last-child CSS pseudo-class represents any element that is the last child element of its parent.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child",
@@ -3415,8 +3409,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-last-of-type",
+  "pseudo-class-last-of-type": {
     "title": "CSS pseudo-class :last-of-type",
     "description": "The :last-of-type CSS pseudo-class represents the last sibling with the given element name in the list of children of its parent element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:last-of-type",
@@ -3471,8 +3464,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-link",
+  "pseudo-class-link": {
     "title": "CSS pseudo-class :link",
     "description": "The :link CSS pseudo-class lets you select links inside elements. This will select any link which has not yet been visited, even those already styled using selector with other link-related pseudo-classes like :hover, :active or :visited. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:link",
@@ -3527,8 +3519,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-not",
+  "pseudo-class-not": {
     "title": "CSS pseudo-class :not()",
     "description": "The negation CSS pseudo-class, :not(X), is a functional notation taking a simple selector X as an argument. It matches an element that is not represented by the argument. X must not contain another negation selector.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:not",
@@ -3583,8 +3574,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-nth-child",
+  "pseudo-class-nth-child": {
     "title": "CSS pseudo-class :nth-child",
     "description": "The :nth-child(an+b) CSS pseudo-class matches an element that has an+b-1 siblings before it in the document tree, for a given positive or zero value for n, and has a parent element. More simply stated, the selector matches a number of child elements whose numeric position in the series of children matches the pattern an+b.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child",
@@ -3639,8 +3629,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-nth-last-child",
+  "pseudo-class-nth-last-child": {
     "title": "CSS pseudo-class :nth-last-child",
     "description": "The :nth-last-child CSS pseudo-class matches an element that has an+b-1 siblings after it in the document tree, for a given positive or zero value for n, and has a parent element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-child",
@@ -3695,8 +3684,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-nth-last-of-type",
+  "pseudo-class-nth-last-of-type": {
     "title": "CSS pseudo-class :nth-last-of-type",
     "description": "The :nth-last-of-type CSS pseudo-class matches an element that has an+b-1 siblings with the same element name after it in the document tree, for a given positive or zero value for n, and has a parent element. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-of-type",
@@ -3751,8 +3739,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-nth-of-type",
+  "pseudo-class-nth-of-type": {
     "title": "CSS pseudo-class :nth-of-type",
     "description": "The :nth-of-type CSS pseudo-class matches an element that has an+b-1 siblings with the same element name before it in the document tree, for a given positive or zero value for n, and has a parent element. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type",
@@ -3807,8 +3794,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-target",
+  "pseudo-class-target": {
     "title": "CSS pseudo-class :target",
     "description": "The :target pseudo-class represents the unique element, if any, with an id matching the fragment identifier of the URI of the document..",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:target",
@@ -3863,8 +3849,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-class-visited",
+  "pseudo-class-visited": {
     "title": "CSS pseudo-class :visited",
     "description": "The :visited CSS pseudo-class lets you select only links that have been visited. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:visited",
@@ -3919,8 +3904,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-element-after",
+  "pseudo-element-after": {
     "title": "CSS pseudo-class ::after (:after)",
     "description": "The CSS ::after pseudo-element matches a virtual last child of the selected element. It is typically used to add cosmetic content to an element by using the content CSS property.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/::after",
@@ -3975,8 +3959,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-element-before",
+  "pseudo-element-before": {
     "title": "CSS pseudo-element ::before (:before)",
     "description": "::before creates a pseudo-element that is the first child of the element matched. It is often used to add cosmetic content to an element by using the content property. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/::before",
@@ -4031,8 +4014,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-element-first-letter",
+  "pseudo-element-first-letter": {
     "title": "CSS pseudo-element ::first-letter (:first-letter)",
     "description": "The ::first-letter CSS pseudo-element selects the first letter of the first line of a block, if it is not preceded by any other content (such as images or inline tables) on its line.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%3A%3Afirst-letter",
@@ -4087,8 +4069,7 @@
       }
     ]
   },
-  {
-    "file": "pseudo-element-first-line",
+  "pseudo-element-first-line": {
     "title": "CSS pseudo-element ::first-line(:first-line)",
     "description": "The ::first-line CSS pseudo-element applies styles only to the first line of an element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/%3A%3Afirst-line",
@@ -4143,11 +4124,10 @@
       }
     ]
   },
-  {
-    "file": "resize",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "resize": {
+    "title": "resize",
+    "description": "The resize CSS property lets you control the resizability of an element.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/resize",
     "css_version": "3",
     "links": [
       {
@@ -4199,11 +4179,10 @@
       }
     ]
   },
-  {
-    "file": "right",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "right": {
+    "title": "right",
+    "description": "The right CSS property specifies part of the position of positioned elements.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/right",
     "css_version": "2",
     "links": [
       {
@@ -4255,8 +4234,7 @@
       }
     ]
   },
-  {
-    "file": "selector-adjacent",
+  "selector-adjacent": {
     "title": "CSS adjacent selector",
     "description": "This is referred to as an adjacent selector. It will select only the specified element that immediately follows the former specified element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_selectors",
@@ -4311,8 +4289,7 @@
       }
     ]
   },
-  {
-    "file": "selector-attribute-begins",
+  "selector-attribute-begins": {
     "title": "CSS attribute selector [attr^=value]",
     "description": "Represents an element with an attribute name of attr and whose value is prefixed by \"value\".",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
@@ -4367,8 +4344,7 @@
       }
     ]
   },
-  {
-    "file": "selector-attribute-contain",
+  "selector-attribute-contain": {
     "title": "CSS attribute selector [attr~=value]",
     "description": "Represents an element with an attribute name of attr whose value is a whitespace-separated list of words, one of which is exactly \"value\".",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
@@ -4423,8 +4399,7 @@
       }
     ]
   },
-  {
-    "file": "selector-attribute-ends",
+  "selector-attribute-ends": {
     "title": "CSS attribute selector [attr$=value]",
     "description": "Represents an element with an attribute name of attr and whose value is suffixed by \"value\".",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
@@ -4479,8 +4454,7 @@
       }
     ]
   },
-  {
-    "file": "selector-attribute-match",
+  "selector-attribute-match": {
     "title": "CSS attribute selector [attr=value]",
     "description": "Represents an element with an attribute name of attr and whose value is exactly \"value\".",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
@@ -4535,8 +4509,7 @@
       }
     ]
   },
-  {
-    "file": "selector-attribute-substring",
+  "selector-attribute-substring": {
     "title": "CSS attribute selector [attr*=value]",
     "description": "Represents an element with an attribute name of attr and whose value contains at least one occurrence of string \"value\" as substring.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
@@ -4591,8 +4564,7 @@
       }
     ]
   },
-  {
-    "file": "selector-attribute",
+  "selector-attribute": {
     "title": "CSS attribute selector [attr]",
     "description": "Represents an element with an attribute name of attr.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
@@ -4647,8 +4619,7 @@
       }
     ]
   },
-  {
-    "file": "selector-child",
+  "selector-child": {
     "title": "CSS child selector",
     "description": "The > combinator separates two selectors and matches only those elements matched by the second selector that are direct children of elements matched by the first.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors",
@@ -4703,8 +4674,7 @@
       }
     ]
   },
-  {
-    "file": "selector-class",
+  "selector-class": {
     "title": "CSS class selector",
     "description": "In an HTML document, CSS class selectors match an element based on the contents of the element's class attribute",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",
@@ -4759,8 +4729,7 @@
       }
     ]
   },
-  {
-    "file": "selector-descendant",
+  "selector-descendant": {
     "title": "CSS descendant selector",
     "description": "The ␣ combinator (that's meant to represent a space, or more properly one or more whitespace characters) combines two selectors such that the combined selector matches only those elements matching the second selector for which there is an ancestor element matching the first selector. Descendant selectors are similar to child selectors, but they do not require that the relationship between matched elements be strictly parent-child.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors",
@@ -4815,8 +4784,7 @@
       }
     ]
   },
-  {
-    "file": "selector-element-type",
+  "selector-element-type": {
     "title": "CSS type selector",
     "description": "CSS type selectors match elements by node name",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors",
@@ -4871,8 +4839,7 @@
       }
     ]
   },
-  {
-    "file": "selector-id",
+  "selector-id": {
     "title": "CSS id selector",
     "description": "In an HTML document, CSS ID selectors match an element based on the contents of that element's ID attribute, which must match exactly the value given in the selector.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors",
@@ -4927,8 +4894,7 @@
       }
     ]
   },
-  {
-    "file": "selector-sibling",
+  "selector-sibling": {
     "title": "CSS general sibling selector",
     "description": "The ~ combinator separates two selectors and matches the second element only if it is preceded by the first, and both share a common parent.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_selectors",
@@ -4983,8 +4949,7 @@
       }
     ]
   },
-  {
-    "file": "selector-universal",
+  "selector-universal": {
     "title": "CSS universal selector (asterisk)",
     "description": "An Asterisk (*) is the universal selector for CSS. It matches a single element of any type.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors",
@@ -5039,8 +5004,7 @@
       }
     ]
   },
-  {
-    "file": "style-in-body",
+  "style-in-body": {
     "title": "<style> element in <body>",
     "description": "The HTML Style Element (<style>) contains style information for a document, or part of a document.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style",
@@ -5095,8 +5059,7 @@
       }
     ]
   },
-  {
-    "file": "style-in-head",
+  "style-in-head": {
     "title": "<style> element in <head>",
     "description": "The HTML Style Element (<style>) contains style information for a document, or part of a document.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style",
@@ -5151,11 +5114,10 @@
       }
     ]
   },
-  {
-    "file": "table-layout",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "table-layout": {
+    "title": "table-layout",
+    "description": "The table-layout CSS property defines the algorithm to be used to layout the table cells, rows, and columns.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout",
     "css_version": "2",
     "links": [
       {
@@ -5207,8 +5169,7 @@
       }
     ]
   },
-  {
-    "file": "text-align",
+  "text-align": {
     "title": "text-align",
     "description": "The text-align CSS property describes how inline content like text is aligned in its parent block element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-align",
@@ -5263,8 +5224,7 @@
       }
     ]
   },
-  {
-    "file": "text-decoration",
+  "text-decoration": {
     "title": "text-decoration",
     "description": "The text-decoration CSS property is used to set the text formatting to underline, overline, line-through or blink. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration",
@@ -5319,8 +5279,7 @@
       }
     ]
   },
-  {
-    "file": "text-fill-color",
+  "text-fill-color": {
     "title": "",
     "description": "",
     "spec": "",
@@ -5375,8 +5334,7 @@
       }
     ]
   },
-  {
-    "file": "text-fill-stroke",
+  "text-fill-stroke": {
     "title": "",
     "description": "",
     "spec": "",
@@ -5431,8 +5389,7 @@
       }
     ]
   },
-  {
-    "file": "text-indent",
+  "text-indent": {
     "title": "text-indent",
     "description": "The text-indent property specifies how much horizontal space should be left before the beginning of the first line of the text content of an element.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent",
@@ -5487,8 +5444,7 @@
       }
     ]
   },
-  {
-    "file": "text-overflow",
+  "text-overflow": {
     "title": "text-overflow",
     "description": "The text-overflow property determines how overflowed content that is not displayed is signaled to users. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow",
@@ -5543,8 +5499,7 @@
       }
     ]
   },
-  {
-    "file": "text-shadow",
+  "text-shadow": {
     "title": "text-shadow",
     "description": "The text-shadow property adds shadows to text. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow",
@@ -5599,8 +5554,7 @@
       }
     ]
   },
-  {
-    "file": "text-transform",
+  "text-transform": {
     "title": "text-transform",
     "description": "The text-transform CSS property specifies how to capitalize an element's text. ",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform",
@@ -5655,11 +5609,10 @@
       }
     ]
   },
-  {
-    "file": "top",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "top": {
+    "title": "top",
+    "description": "The top CSS property specifies part of the position of positioned elements.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/top",
     "css_version": "2",
     "links": [
       {
@@ -5711,8 +5664,7 @@
       }
     ]
   },
-  {
-    "file": "vertical-align",
+  "vertical-align": {
     "title": "vertical-align",
     "description": "The vertical-align CSS property specifies the vertical alignment of an inline or table-cell box.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align",
@@ -5767,11 +5719,10 @@
       }
     ]
   },
-  {
-    "file": "video",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "video": {
+    "title": "<video>",
+    "description": "The HTML <video> element is used to embed video content.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video",
     "css_version": "",
     "links": [
       {
@@ -5823,11 +5774,10 @@
       }
     ]
   },
-  {
-    "file": "visibility",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "visibility": {
+    "title": "visibility",
+    "description": "The visibility property can be used to hide an element while leaving the space where it would have been.",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/visibility",
     "css_version": "2",
     "links": [
       {
@@ -5879,8 +5829,7 @@
       }
     ]
   },
-  {
-    "file": "white-space",
+  "white-space": {
     "title": "white-space",
     "description": "The white-space property is used to describe how whitespace inside the element is handled.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/white-space",
@@ -5935,11 +5884,10 @@
       }
     ]
   },
-  {
-    "file": "width",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "width": {
+    "title": "width",
+    "description": "The width CSS property specifies the width of the content area of an element. ",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/width",
     "css_version": "2",
     "links": [
       {
@@ -5991,8 +5939,7 @@
       }
     ]
   },
-  {
-    "file": "word-spacing",
+  "word-spacing": {
     "title": "word-spacing",
     "description": "The word-spacing property specifies spacing behavior between tags and words.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing",
@@ -6047,8 +5994,7 @@
       }
     ]
   },
-  {
-    "file": "word-wrap",
+  "word-wrap": {
     "title": "word-wrap",
     "description": "The word-wrap property is used to specify whether or not the browser may break lines within words in order to prevent overflow when an otherwise unbreakable string is too long to fit in its containing box.",
     "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-wrap",
@@ -6103,11 +6049,10 @@
       }
     ]
   },
-  {
-    "file": "z-index",
-    "title": "",
-    "description": "",
-    "spec": "",
+  "z-index": {
+    "title": "z-index",
+    "description": "The z-index property specifies the z-order of an element and its descendants. ",
+    "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/z-index",
     "css_version": "2",
     "links": [
       {
@@ -6159,4 +6104,4 @@
       }
     ]
   }
-]
+}

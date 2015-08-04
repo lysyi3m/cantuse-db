@@ -1,16 +1,19 @@
 {
   "name": "angrybarry-db",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Raw mail client features support data",
   "author": {
     "name": "Emil Kashkevich",
     "email": "emil.kashkevich@gmail.com"
   },
+  "scripts": {
+    "test": "gulp check"
+  },
   "devDependencies": {
     "babyparse": "^0.4.3",
     "gulp": "^3.9.0",
-    "gulp-concat-json": "^1.0.0",
     "gulp-json-fmt": "^1.0.0",
+    "gulp-jsoncombine": "^1.0.2",
     "gulp-jsonlint": "^1.1.0",
     "optimist": "^0.6.1",
     "q": "^1.4.1"
