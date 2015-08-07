@@ -9,7 +9,9 @@
       "title": ""
     }
   ],
-  "categories": [],
+  "categories": [
+    "html"
+  ],
   "stats": {
     "web": {
       "Outlook.com": "No",
