@@ -42,7 +42,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<audio>"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -175,7 +175,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "background-color"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -308,7 +308,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": ""
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -441,7 +441,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "background-image"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -574,7 +574,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "background-position"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -707,7 +707,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "background-repeat"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -840,7 +840,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "background-size"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -973,7 +973,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": ""
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1106,7 +1106,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "border-collapse"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1239,7 +1239,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "border-color"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1372,7 +1372,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "border-image"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1505,7 +1505,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "border-radius"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1638,7 +1638,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "border-spacing"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1771,7 +1771,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "border"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -1904,7 +1904,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "bottom"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2037,7 +2037,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "box-shadow"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2170,7 +2170,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<canvas>"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2303,7 +2303,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "caption-side"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2436,7 +2436,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "clear"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2569,7 +2569,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "clip"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2702,7 +2702,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "color"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2835,7 +2835,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "HSL color values"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -2968,7 +2968,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "HSLA color values"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3101,7 +3101,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "RGBA color values"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3234,7 +3234,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "cursor"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3367,7 +3367,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "direction"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3500,7 +3500,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "display"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3633,7 +3633,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "empty-cells"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3766,7 +3766,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "float"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -3899,7 +3899,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "@font-face"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4032,7 +4032,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "font-family"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4165,7 +4165,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "font-size"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4298,7 +4298,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "font-style"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4431,7 +4431,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "font-variant"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4564,7 +4564,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "font-weight"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4697,7 +4697,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "font"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4830,7 +4830,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "height"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -4963,7 +4963,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "left"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5096,7 +5096,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "letter-spacing"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5229,7 +5229,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "line-height"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5362,7 +5362,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<link> element in <body>"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5495,7 +5495,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<link> element in <head>"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5628,7 +5628,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "list-style-image"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5761,7 +5761,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "list-style-position"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -5894,7 +5894,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "list-style-type"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6027,7 +6027,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "margin"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6160,7 +6160,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "max-width"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6293,7 +6293,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "@media"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6426,7 +6426,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "min-width"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6559,7 +6559,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "opacity"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6692,7 +6692,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "opacity"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6825,7 +6825,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "outline"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -6958,7 +6958,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "overflow"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7091,7 +7091,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "padding"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7224,7 +7224,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "position"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7357,7 +7357,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :active"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7490,7 +7490,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :empty"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7623,7 +7623,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :first-child"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7756,7 +7756,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :first-of-type"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -7889,7 +7889,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :focus"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8022,7 +8022,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :hover"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8155,7 +8155,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :last-child"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8288,7 +8288,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :last-of-type"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8421,7 +8421,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :link"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8554,7 +8554,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :not()"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8687,7 +8687,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :nth-child"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8820,7 +8820,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :nth-last-child"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -8953,7 +8953,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :nth-last-of-type"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9086,7 +9086,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :nth-of-type"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9219,7 +9219,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :target"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9352,7 +9352,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class :visited"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9485,7 +9485,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-class ::after (:after)"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9618,7 +9618,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-element ::before (:before)"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9751,7 +9751,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-element ::first-letter (:first-letter)"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -9884,7 +9884,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS pseudo-element ::first-line(:first-line)"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10017,7 +10017,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "resize"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10150,7 +10150,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "right"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10283,7 +10283,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS adjacent selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10416,7 +10416,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS attribute selector [attr^=value]"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10549,7 +10549,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS attribute selector [attr~=value]"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10682,7 +10682,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS attribute selector [attr$=value]"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10815,7 +10815,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS attribute selector [attr=value]"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -10948,7 +10948,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS attribute selector [attr*=value]"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11081,7 +11081,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS attribute selector [attr]"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11214,7 +11214,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS child selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11347,7 +11347,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS class selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11480,7 +11480,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS descendant selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11613,7 +11613,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS type selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11746,7 +11746,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS id selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -11879,7 +11879,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS general sibling selector"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12012,7 +12012,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "CSS universal selector (asterisk)"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12145,7 +12145,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<style> element in <body>"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12278,7 +12278,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<style> element in <head>"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12411,7 +12411,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "table-layout"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12544,7 +12544,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "text-align"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12677,7 +12677,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "text-decoration"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12810,7 +12810,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": ""
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -12943,7 +12943,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": ""
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13076,7 +13076,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "text-indent"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13209,7 +13209,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "text-overflow"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13342,7 +13342,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "text-shadow"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13475,7 +13475,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "text-transform"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13608,7 +13608,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "top"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13741,7 +13741,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "vertical-align"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -13874,7 +13874,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "<video>"
+            "value": "No"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -14007,7 +14007,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "visibility"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -14140,7 +14140,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "white-space"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -14273,7 +14273,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "width"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -14406,7 +14406,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "word-spacing"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -14539,7 +14539,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "word-wrap"
+            "value": "Partial/Buggy"
           },
           {
             "name": "Windows Live Mail 2011",
@@ -14672,7 +14672,7 @@
           },
           {
             "name": "Outlook '03 / Express / Mail",
-            "value": "z-index"
+            "value": "Yes"
           },
           {
             "name": "Windows Live Mail 2011",

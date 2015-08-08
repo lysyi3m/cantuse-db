@@ -42,7 +42,7 @@ var formatData = function(data) {
           "group": "pc",
           "clients": [
             {"name": "Outlook '07 / '10 / ‘13", "value": features[i][10]},
-            {"name": "Outlook '03 / Express / Mail", "value": features[i][1]},
+            {"name": "Outlook '03 / Express / Mail", "value": features[i][11]},
             {"name": "Windows Live Mail 2011", "value": features[i][12]},
             {"name": "Notes 6 / 7", "value": features[i][13]},
             {"name": "Lotus Notes 8.5", "value": features[i][14]},
