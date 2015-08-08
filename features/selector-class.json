@@ -1,5 +1,6 @@
 {
   "title": "CSS class selector",
+  "category": "css",
   "description": "In an HTML document, CSS class selectors match an element based on the contents of the element's class attribute",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors",
   "css_version": "1",
@@ -9,41 +10,116 @@
       "title": ""
     }
   ],
-  "categories": [
-    "css"
-  ],
-  "stats": {
-    "web": {
-      "Outlook.com": "Yes",
-      "Yahoo! Mail": "Yes",
-      "Gmail": "No",
-      "AOL Mail": "Yes"
+  "stats": [
+    {
+      "group": "web",
+      "clients": [
+        {
+          "name": "Outlook.com",
+          "value": "Yes"
+        },
+        {
+          "name": "Yahoo! Mail",
+          "value": "Yes"
+        },
+        {
+          "name": "Gmail",
+          "value": "No"
+        },
+        {
+          "name": "AOL Mail",
+          "value": "Yes"
+        }
+      ]
     },
-    "pc": {
-      "Outlook '07 / '10 / ‘13": "Yes",
-      "Outlook '03 / Express / Mail": "Yes",
-      "Windows Live Mail 2011": "Yes",
-      "Notes 6 / 7": "Yes",
-      "Lotus Notes 8.5": "Yes",
-      "AOL Desktop 10": "Yes"
+    {
+      "group": "pc",
+      "clients": [
+        {
+          "name": "Outlook '07 / '10 / ‘13",
+          "value": "Yes"
+        },
+        {
+          "name": "Outlook '03 / Express / Mail",
+          "value": "CSS class selector"
+        },
+        {
+          "name": "Windows Live Mail 2011",
+          "value": "Yes"
+        },
+        {
+          "name": "Notes 6 / 7",
+          "value": "Yes"
+        },
+        {
+          "name": "Lotus Notes 8.5",
+          "value": "Yes"
+        },
+        {
+          "name": "AOL Desktop 10",
+          "value": "Yes"
+        }
+      ]
     },
-    "mac": {
-      "Apple Mail 6.5": "Yes",
-      "Outlook 2011": "Yes",
-      "Postbox": "Yes",
-      "Thunderbird 17": "Yes"
+    {
+      "group": "mac",
+      "clients": [
+        {
+          "name": "Apple Mail 6.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Outlook 2011",
+          "value": "Yes"
+        },
+        {
+          "name": "Postbox",
+          "value": "Yes"
+        },
+        {
+          "name": "Thunderbird 17",
+          "value": "Yes"
+        }
+      ]
     },
-    "mobile": {
-      "iPhone / iPad (iOS 7)": "Yes",
-      "Blackberry 6": "Yes",
-      "Android 4 (Default)": "Yes",
-      "Gmail": "No",
-      "Windows Mobile 7.5": "Yes",
-      "Samsung Galaxy S4 (Default)": "",
-      "Mailbox (iOS 7)": "No",
-      "Sparrow (iOS 7)": "Yes"
+    {
+      "group": "mobile",
+      "clients": [
+        {
+          "name": "iPhone / iPad (iOS 7)",
+          "value": "Yes"
+        },
+        {
+          "name": "Blackberry 6",
+          "value": "Yes"
+        },
+        {
+          "name": "Android 4 (Default)",
+          "value": "Yes"
+        },
+        {
+          "name": "Gmail",
+          "value": "No"
+        },
+        {
+          "name": "Windows Mobile 7.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Samsung Galaxy S4 (Default)",
+          "value": ""
+        },
+        {
+          "name": "Mailbox (iOS 7)",
+          "value": "No"
+        },
+        {
+          "name": "Sparrow (iOS 7)",
+          "value": "Yes"
+        }
+      ]
     }
-  },
+  ],
   "notes": [
     {
       "note": ""

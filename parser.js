@@ -23,43 +23,55 @@ var formatData = function(data) {
   for (var i in features) {
     var feature = {
       "title": features[i][1],
-      "description": features[i][2],
-      "spec": features[i][3],
-      "css_version": features[i][4],
+      "category": features[i][2],
+      "description": features[i][3],
+      "spec": features[i][4],
+      "css_version": features[i][5],
       "links": [{"url": "","title": ""}],
-      "categories": [],
-      "stats": {
-        "web": {
-          "Outlook.com": features[i][5],
-          "Yahoo! Mail": features[i][6],
-          "Gmail": features[i][7],
-          "AOL Mail": features[i][8]
+      "stats": [
+        {
+          "group": "web",
+          "clients": [
+            {"name": "Outlook.com", "value": features[i][6]},
+            {"name": "Yahoo! Mail", "value": features[i][7]},
+            {"name": "Gmail", "value": features[i][8]},
+            {"name": "AOL Mail", "value": features[i][9]}
+          ]
         },
-        "pc": {
-          "Outlook '07 / '10 / ‘13": features[i][9],
-          "Outlook '03 / Express / Mail": features[i][10],
-          "Windows Live Mail 2011": features[i][11],
-          "Notes 6 / 7": features[i][12],
-          "Lotus Notes 8.5": features[i][13],
-          "AOL Desktop 10": features[i][14]
+        {
+          "group": "pc",
+          "clients": [
+            {"name": "Outlook '07 / '10 / ‘13", "value": features[i][10]},
+            {"name": "Outlook '03 / Express / Mail", "value": features[i][1]},
+            {"name": "Windows Live Mail 2011", "value": features[i][12]},
+            {"name": "Notes 6 / 7", "value": features[i][13]},
+            {"name": "Lotus Notes 8.5", "value": features[i][14]},
+            {"name": "AOL Desktop 10", "value": features[i][15]}
+          ]
         },
-        "mac": {
-          "Apple Mail 6.5": features[i][15],
-          "Outlook 2011": features[i][16],
-          "Postbox": features[i][17],
-          "Thunderbird 17": features[i][18]
+        {
+          "group": "mac",
+          "clients": [
+            {"name": "Apple Mail 6.5", "value": features[i][16]},
+            {"name": "Outlook 2011", "value": features[i][17]},
+            {"name": "Postbox", "value": features[i][18]},
+            {"name": "Thunderbird 17", "value": features[i][19]}
+          ]
         },
-        "mobile": {
-          "iPhone / iPad (iOS 7)": features[i][19],
-          "Blackberry 6": features[i][20],
-          "Android 4 (Default)": features[i][21],
-          "Gmail": features[i][22],
-          "Windows Mobile 7.5": features[i][23],
-          "Samsung Galaxy S4 (Default)": features[i][24],
-          "Mailbox (iOS 7)": features[i][25],
-          "Sparrow (iOS 7)": features[i][26]
+        {
+          "group": "mobile",
+          "clients": [
+            {"name": "iPhone / iPad (iOS 7)", "value": features[i][20]},
+            {"name": "Blackberry 6", "value": features[i][21]},
+            {"name": "Android 4 (Default)", "value": features[i][22]},
+            {"name": "Gmail", "value": features[i][23]},
+            {"name": "Windows Mobile 7.5", "value": features[i][24]},
+            {"name": "Samsung Galaxy S4 (Default)", "value": features[i][25]},
+            {"name": "Mailbox (iOS 7)", "value": features[i][26]},
+            {"name": "Sparrow (iOS 7)", "value": features[i][27]}
+          ]
         }
-      },
+      ],
       "notes": [{"note": ""}],
       "bugs": [{"description": ""}]
     }

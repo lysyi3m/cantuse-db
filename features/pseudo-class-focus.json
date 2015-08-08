@@ -1,5 +1,6 @@
 {
   "title": "CSS pseudo-class :focus",
+  "category": "css",
   "description": "The :focus CSS pseudo-class is applied when a element has received focus, either from the user selecting it with the use of a keyboard or by activating with the mouse (e.g. a form input).",
   "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:focus",
   "css_version": "2",
@@ -9,41 +10,116 @@
       "title": ""
     }
   ],
-  "categories": [
-    "css"
-  ],
-  "stats": {
-    "web": {
-      "Outlook.com": "Yes",
-      "Yahoo! Mail": "No",
-      "Gmail": "No",
-      "AOL Mail": "No"
+  "stats": [
+    {
+      "group": "web",
+      "clients": [
+        {
+          "name": "Outlook.com",
+          "value": "Yes"
+        },
+        {
+          "name": "Yahoo! Mail",
+          "value": "No"
+        },
+        {
+          "name": "Gmail",
+          "value": "No"
+        },
+        {
+          "name": "AOL Mail",
+          "value": "No"
+        }
+      ]
     },
-    "pc": {
-      "Outlook '07 / '10 / ‘13": "No",
-      "Outlook '03 / Express / Mail": "No",
-      "Windows Live Mail 2011": "No",
-      "Notes 6 / 7": "No",
-      "Lotus Notes 8.5": "No",
-      "AOL Desktop 10": "No"
+    {
+      "group": "pc",
+      "clients": [
+        {
+          "name": "Outlook '07 / '10 / ‘13",
+          "value": "No"
+        },
+        {
+          "name": "Outlook '03 / Express / Mail",
+          "value": "CSS pseudo-class :focus"
+        },
+        {
+          "name": "Windows Live Mail 2011",
+          "value": "No"
+        },
+        {
+          "name": "Notes 6 / 7",
+          "value": "No"
+        },
+        {
+          "name": "Lotus Notes 8.5",
+          "value": "No"
+        },
+        {
+          "name": "AOL Desktop 10",
+          "value": "No"
+        }
+      ]
     },
-    "mac": {
-      "Apple Mail 6.5": "Yes",
-      "Outlook 2011": "No",
-      "Postbox": "Yes",
-      "Thunderbird 17": "Yes"
+    {
+      "group": "mac",
+      "clients": [
+        {
+          "name": "Apple Mail 6.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Outlook 2011",
+          "value": "No"
+        },
+        {
+          "name": "Postbox",
+          "value": "Yes"
+        },
+        {
+          "name": "Thunderbird 17",
+          "value": "Yes"
+        }
+      ]
     },
-    "mobile": {
-      "iPhone / iPad (iOS 7)": "Yes",
-      "Blackberry 6": "Yes",
-      "Android 4 (Default)": "No",
-      "Gmail": "No",
-      "Windows Mobile 7.5": "No",
-      "Samsung Galaxy S4 (Default)": "",
-      "Mailbox (iOS 7)": "No",
-      "Sparrow (iOS 7)": "No"
+    {
+      "group": "mobile",
+      "clients": [
+        {
+          "name": "iPhone / iPad (iOS 7)",
+          "value": "Yes"
+        },
+        {
+          "name": "Blackberry 6",
+          "value": "Yes"
+        },
+        {
+          "name": "Android 4 (Default)",
+          "value": "No"
+        },
+        {
+          "name": "Gmail",
+          "value": "No"
+        },
+        {
+          "name": "Windows Mobile 7.5",
+          "value": "No"
+        },
+        {
+          "name": "Samsung Galaxy S4 (Default)",
+          "value": ""
+        },
+        {
+          "name": "Mailbox (iOS 7)",
+          "value": "No"
+        },
+        {
+          "name": "Sparrow (iOS 7)",
+          "value": "No"
+        }
+      ]
     }
-  },
+  ],
   "notes": [
     {
       "note": ""
