@@ -1,3 +1,10 @@
 angrybarry-db
 =========
-This repo contains raw json-formatted data tables of css/html support for email clients, (partially) based on [Campaignmonitor's](https://www.campaignmonitor.com/css/) research. 
+This repo contains raw JSON-formatted data for CSS, HTML and other features support *especially* for email clients.
+
+Example service that using this package - [AngryBarry](http://lysyi3m.github.io/angrybarry).
+
+Also available via NPM:
+```
+npm install angrybarry-db
+```
