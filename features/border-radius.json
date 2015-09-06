@@ -29,6 +29,10 @@
         {
           "name": "AOL Mail",
           "value": "Yes"
+        },
+        {
+          "name": "Yandex",
+          "value": "Yes"
         }
       ]
     },

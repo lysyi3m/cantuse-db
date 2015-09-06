@@ -24,11 +24,15 @@
         },
         {
           "name": "Gmail",
-          "value": "No"
+          "value": "Yes"
         },
         {
           "name": "AOL Mail",
           "value": "Yes"
+        },
+        {
+          "name": "Yandex",
+          "value": "No"
         }
       ]
     },

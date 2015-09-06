@@ -1360,6 +1360,10 @@
           {
             "name": "AOL Mail",
             "value": "Yes"
+          },
+          {
+            "name": "Yandex",
+            "value": "Yes"
           }
         ]
       },
@@ -1492,6 +1496,10 @@
           },
           {
             "name": "AOL Mail",
+            "value": "Yes"
+          },
+          {
+            "name": "Yandex",
             "value": "Yes"
           }
         ]
@@ -2025,6 +2033,10 @@
           {
             "name": "AOL Mail",
             "value": "Yes"
+          },
+          {
+            "name": "Yandex",
+            "value": "No"
           }
         ]
       },
@@ -10005,6 +10017,10 @@
           {
             "name": "AOL Mail",
             "value": "Yes"
+          },
+          {
+            "name": "Yandex",
+            "value": "No"
           }
         ]
       },
@@ -13325,11 +13341,15 @@
           },
           {
             "name": "Gmail",
-            "value": "No"
+            "value": "Yes"
           },
           {
             "name": "AOL Mail",
             "value": "Yes"
+          },
+          {
+            "name": "Yandex",
+            "value": "No"
           }
         ]
       },
@@ -14522,11 +14542,15 @@
           },
           {
             "name": "Gmail",
-            "value": "No"
+            "value": "Yes"
           },
           {
             "name": "AOL Mail",
             "value": "Partial/Buggy"
+          },
+          {
+            "name": "Yandex",
+            "value": "No"
           }
         ]
       },
