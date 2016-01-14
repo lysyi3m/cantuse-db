@@ -3,12 +3,12 @@ var jsoncombine = require("gulp-jsoncombine");
 var jsonFmt     = require('gulp-json-fmt');
 var jsonlint    = require('gulp-jsonlint');
 
-gulp.task('check', function() {
+gulp.task('test', function() {
   gulp.src('features/*.json')
     .pipe(jsonlint())
     .pipe(jsonlint.reporter())
     .pipe(jsonFmt(jsonFmt.PRETTY))
-    .pipe(gulp.dest("features/"));
+    .pipe(gulp.dest('features/'));
 });
 
 gulp.task('compile', function () {
