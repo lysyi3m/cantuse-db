@@ -9,18 +9,11 @@
   "scripts": {
     "test": "gulp test"
   },
-  "engines": {
-    "node": "5.3.0",
-    "npm": "3.3.12"
-  },
   "devDependencies": {
-    "babyparse": "^0.4.3",
     "gulp": "3.9.0",
     "gulp-json-fmt": "1.0.0",
     "gulp-jsoncombine": "1.0.3",
-    "gulp-jsonlint": "1.1.1",
-    "optimist": "^0.6.1",
-    "q": "^1.4.1"
+    "gulp-jsonlint": "1.1.1"
   },
   "repository": {
     "type": "git",
