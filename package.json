@@ -1,26 +1,25 @@
 {
   "name": "angrybarry-db",
   "version": "0.1.6",
-  "description": "Raw mail client features support data",
+  "description": "Raw email client features support data",
   "author": {
     "name": "Emil Kashkevich",
     "email": "emil.kashkevich@gmail.com"
   },
+  "main": "main.js",
   "scripts": {
-    "test": "gulp check"
-  },
-  "engines": {
-    "node": "0.12.7",
-    "npm": "2.13.3"
+    "prepublish": "gulp compile",
+    "test": "gulp test"
   },
   "devDependencies": {
-    "babyparse": "^0.4.3",
-    "gulp": "^3.9.0",
-    "gulp-json-fmt": "^1.0.0",
-    "gulp-jsoncombine": "^1.0.2",
-    "gulp-jsonlint": "^1.1.0",
-    "optimist": "^0.6.1",
-    "q": "^1.4.1"
+    "babel-core": "6.4.0",
+    "babel-preset-es2015": "6.3.13",
+    "eslint": "1.10.3",
+    "eslint-config-airbnb": "3.1.0",
+    "gulp": "3.9.0",
+    "gulp-json-fmt": "1.0.0",
+    "gulp-jsoncombine": "1.0.3",
+    "gulp-jsonlint": "1.1.1"
   },
   "repository": {
     "type": "git",
