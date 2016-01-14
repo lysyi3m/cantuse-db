@@ -13,14 +13,7 @@ gulp.task('test', () => {
 
 gulp.task('compile', ['test'], () => {
   gulp.src('features/*.json')
-    .pipe(jsonCombine('compiled.json', (data) => {
-      return new Buffer(JSON.stringify(data));
-    }))
-    .pipe(jsonFormat(jsonFormat.PRETTY))
-    .pipe(gulp.dest('full/'));
-
-  gulp.src('features/*.json')
-    .pipe(jsonCombine('compressed.json', (data) => {
+    .pipe(jsonCombine('data.json', (data) => {
       return new Buffer(JSON.stringify(data));
     }))
     .pipe(jsonFormat(jsonFormat.MINI))

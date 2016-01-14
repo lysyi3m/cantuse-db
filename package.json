@@ -6,6 +6,7 @@
     "name": "Emil Kashkevich",
     "email": "emil.kashkevich@gmail.com"
   },
+  "main": "main.js",
   "scripts": {
     "prepublish": "gulp compile",
     "test": "gulp test"
