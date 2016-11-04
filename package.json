@@ -8,7 +8,7 @@
   },
   "main": "main.js",
   "scripts": {
-    "prepublish": "gulp compile",
+    "prepublishOnly": "gulp compile",
     "test": "gulp test"
   },
   "devDependencies": {
