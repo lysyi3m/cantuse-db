@@ -14,7 +14,11 @@ gulp.task('test', () => {
 gulp.task('compile', ['test'], () => {
   gulp.src('features/*.json')
     .pipe(jsonCombine('data.json', (data) => {
-      return new Buffer(JSON.stringify(data));
+      const keys = Object.keys(data);
+      const formattedData = {
+        features: keys.map(key => Object.assign({}, data[key], { slug: key })),
+      };
+      return new Buffer(JSON.stringify(formattedData));
     }))
     .pipe(jsonFormat(jsonFormat.MINI))
     .pipe(gulp.dest('full/'));

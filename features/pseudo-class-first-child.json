@@ -1,0 +1,120 @@
+{
+  "title": "CSS pseudo-class :first-child",
+  "category": "css",
+  "description": "The :first-child CSS pseudo-class represents any element that is the first child element of its parent.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child",
+  "css_version": 2,
+  "links": [],
+  "stats": [
+    {
+      "group": "web",
+      "clients": [
+        {
+          "name": "Outlook.com",
+          "value": "Yes"
+        },
+        {
+          "name": "Yahoo! Mail",
+          "value": "No"
+        },
+        {
+          "name": "Gmail",
+          "value": "No"
+        },
+        {
+          "name": "AOL Mail",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "group": "pc",
+      "clients": [
+        {
+          "name": "Outlook '07 / '10 / ‘13",
+          "value": "No"
+        },
+        {
+          "name": "Outlook '03 / Express / Mail",
+          "value": "Yes"
+        },
+        {
+          "name": "Windows Live Mail 2011",
+          "value": "Yes"
+        },
+        {
+          "name": "Notes 6 / 7",
+          "value": "No"
+        },
+        {
+          "name": "Lotus Notes 8.5",
+          "value": "No"
+        },
+        {
+          "name": "AOL Desktop 10",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "group": "mac",
+      "clients": [
+        {
+          "name": "Apple Mail 6.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Outlook 2011",
+          "value": "Yes"
+        },
+        {
+          "name": "Postbox",
+          "value": "Yes"
+        },
+        {
+          "name": "Thunderbird 17",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "group": "mobile",
+      "clients": [
+        {
+          "name": "iPhone / iPad (iOS 7)",
+          "value": "Yes"
+        },
+        {
+          "name": "Blackberry 6",
+          "value": "Yes"
+        },
+        {
+          "name": "Android 4 (Default)",
+          "value": "Yes"
+        },
+        {
+          "name": "Gmail",
+          "value": "No"
+        },
+        {
+          "name": "Windows Mobile 7.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Samsung Galaxy S4 (Default)",
+          "value": ""
+        },
+        {
+          "name": "Mailbox (iOS 7)",
+          "value": "No"
+        },
+        {
+          "name": "Sparrow (iOS 7)",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "bugs": []
+}

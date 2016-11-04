@@ -1,0 +1,120 @@
+{
+  "title": "font-style",
+  "category": "css",
+  "description": "The font-style CSS property lets you select italic or oblique faces within a font-family.",
+  "spec": "https://developer.mozilla.org/en-US/docs/Web/CSS/font-style",
+  "css_version": 2,
+  "links": [],
+  "stats": [
+    {
+      "group": "web",
+      "clients": [
+        {
+          "name": "Outlook.com",
+          "value": "Yes"
+        },
+        {
+          "name": "Yahoo! Mail",
+          "value": "Yes"
+        },
+        {
+          "name": "Gmail",
+          "value": "Yes"
+        },
+        {
+          "name": "AOL Mail",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "group": "pc",
+      "clients": [
+        {
+          "name": "Outlook '07 / '10 / ‘13",
+          "value": "Yes"
+        },
+        {
+          "name": "Outlook '03 / Express / Mail",
+          "value": "Yes"
+        },
+        {
+          "name": "Windows Live Mail 2011",
+          "value": "Yes"
+        },
+        {
+          "name": "Notes 6 / 7",
+          "value": "Yes"
+        },
+        {
+          "name": "Lotus Notes 8.5",
+          "value": "Yes"
+        },
+        {
+          "name": "AOL Desktop 10",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "group": "mac",
+      "clients": [
+        {
+          "name": "Apple Mail 6.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Outlook 2011",
+          "value": "Yes"
+        },
+        {
+          "name": "Postbox",
+          "value": "Yes"
+        },
+        {
+          "name": "Thunderbird 17",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "group": "mobile",
+      "clients": [
+        {
+          "name": "iPhone / iPad (iOS 7)",
+          "value": "Yes"
+        },
+        {
+          "name": "Blackberry 6",
+          "value": "Yes"
+        },
+        {
+          "name": "Android 4 (Default)",
+          "value": "Yes"
+        },
+        {
+          "name": "Gmail",
+          "value": "Yes"
+        },
+        {
+          "name": "Windows Mobile 7.5",
+          "value": "Yes"
+        },
+        {
+          "name": "Samsung Galaxy S4 (Default)",
+          "value": "Yes"
+        },
+        {
+          "name": "Mailbox (iOS 7)",
+          "value": "Yes"
+        },
+        {
+          "name": "Sparrow (iOS 7)",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "bugs": []
+}
